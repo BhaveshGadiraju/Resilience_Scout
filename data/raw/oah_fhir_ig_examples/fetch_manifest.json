@@ -1,0 +1,7 @@
+{
+  "retrieval_date": "2026-09-24",
+  "source": "https://github.com/hl7-eu/oah",
+  "branch": "master",
+  "example_fsh_count": 25,
+  "note": "build.fhir.org/ig/hl7-eu/oah returned HTTP 404 at retrieval time; used GitHub FSH sources instead."
+}

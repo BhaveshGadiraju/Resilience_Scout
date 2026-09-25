@@ -1,0 +1,19 @@
+source: OneAquaHealth Resilience Map backend API (Enora)
+source_url: https://api.enora-oah.eu/api
+retrieval_date: '2026-09-24'
+original_filename_or_api: GET /api/cities/all, /api/sites/all, /api/resilience-map/health-risks,
+  /api/resilience-map/urban-parameters, /api/resilience-map/weather?siteCode=&start=&end=
+license: Public UI backend used by https://apps.oneaquahealth.eu/resmap/v2; usage
+  terms not separately stated in responses. Treat as OAH-published operational data
+  pending formal license note.
+data_class: observed
+processing_steps:
+- HTTP GET of public JSON endpoints discovered via Resilience Map frontend network
+  traffic
+- Stored response JSON unmodified under data/raw/resilience_map_api/
+preserves_original_values: true
+notes: Public GET verified for cities/sites/health-risks/urban-parameters. Weather
+  requires siteCode + start/end as ZonedDateTime (e.g. 2023-01-01T00:00:00Z); 731
+  daily rows verified for site C1 (2023-2024). CSV export is client-side Blob from
+  loaded JSON; /export API paths returned 401. Earth Observation / health-indicators
+  public access UNVERIFIED (401).

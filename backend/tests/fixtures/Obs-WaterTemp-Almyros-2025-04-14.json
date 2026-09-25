@@ -1,0 +1,31 @@
+{
+  "resourceType": "Observation",
+  "id": "Obs-WaterTemp-Almyros-2025-04-14",
+  "status": "final",
+  "code": {
+    "coding": [
+      {
+        "system": "https://oneaquahealth.eu/CodeSystem/temporarySystem-oah-eu",
+        "code": "waterTemperature",
+        "display": "Water temperature"
+      }
+    ],
+    "text": "Water temperature"
+  },
+  "subject": {
+    "reference": "Location/Loc-Almyros",
+    "display": "Almyros monitoring reach"
+  },
+  "effectiveDateTime": "2025-04-14",
+  "performer": [
+    {
+      "display": "OneAquaHealth Crete Lab"
+    }
+  ],
+  "valueQuantity": {
+    "value": 16.2,
+    "unit": "Celsius",
+    "system": "http://unitsofmeasure.org",
+    "code": "Cel"
+  }
+}

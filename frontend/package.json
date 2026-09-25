@@ -1,0 +1,11 @@
+{
+  "name": "resilience-scout-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Placeholder — Next.js UI deferred to Phase 2+",
+  "scripts": {
+    "dev": "echo 'Frontend not scaffolded until Phase 2'",
+    "build": "echo 'Frontend not scaffolded until Phase 2'",
+    "start": "echo 'Frontend not scaffolded until Phase 2'"
+  }
+}

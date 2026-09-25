@@ -1,0 +1,14 @@
+source: Derived inventory from OAH FHIR FSH examples
+source_url: https://github.com/hl7-eu/oah/tree/master/input/fsh/examples
+retrieval_date: '2026-09-24'
+original_filename_or_api: data/raw/oah_fhir_ig_examples/github_fsh/*.fsh
+license: Derived from OAH FHIR IG source examples; same upstream terms.
+data_class: derived
+processing_steps:
+- Parsed FHIR Shorthand Observation Instance blocks with regex
+- Extracted id, indicator text, site reference, dates, valueQuantity and median component
+  when present
+- Did not alter numeric literals from source
+preserves_original_values: true
+notes: Derived tabular view for inspection only. Prefer median components for annual
+  summaries when average/max/min appear scale-inconsistent.

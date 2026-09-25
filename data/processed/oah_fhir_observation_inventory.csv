@@ -1,0 +1,386 @@
+id,title,indicator,site,effectiveDateTime,effectivePeriod_start,effectivePeriod_end,value,unit,median_value,median_unit,source_file
+Obs-Almyros-AluminiumDissolved-2018,Observation - Almyros Aluminium dissolved (2018 summary),Aluminium dissolved,Loc-Almyros,,2018-01-01,2018-12-31,,,10.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-AluminiumDissolved-2019,Observation - Almyros Aluminium dissolved (2019 summary),Aluminium dissolved,Loc-Almyros,,2019-01-01,2019-12-31,,,36.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-AluminiumDissolved-2020,Observation - Almyros Aluminium dissolved (2020 summary),Aluminium dissolved,Loc-Almyros,,2020-01-01,2020-12-31,,,10.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-AluminiumDissolved-2013,Observation - Almyros Aluminium dissolved (2013 summary),Aluminium dissolved,Loc-Almyros,,2013-01-01,2013-12-31,,,10.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-AluminiumDissolved-2014,Observation - Almyros Aluminium dissolved (2014 summary),Aluminium dissolved,Loc-Almyros,,2014-01-01,2014-12-31,,,11.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-Ammonium-2018,Observation - Almyros Ammonium (2018 summary),Ammonium,Loc-Almyros,,2018-01-01,2018-12-31,,,0.02,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Ammonium-2019,Observation - Almyros Ammonium (2019 summary),Ammonium,Loc-Almyros,,2019-01-01,2019-12-31,,,0.01,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Ammonium-2020,Observation - Almyros Ammonium (2020 summary),Ammonium,Loc-Almyros,,2020-01-01,2020-12-31,,,0.0,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Ammonium-2013,Observation - Almyros Ammonium (2013 summary),Ammonium,Loc-Almyros,,2013-01-01,2013-12-31,,,0.02,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Ammonium-2014,Observation - Almyros Ammonium (2014 summary),Ammonium,Loc-Almyros,,2014-01-01,2014-12-31,,,0.02,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Ammonium-2015,Observation - Almyros Ammonium (2015 summary),Ammonium,Loc-Almyros,,2015-01-01,2015-12-31,,,0.02,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-ArsenicDissolved-2018,Observation - Almyros Arsenic dissolved (2018 summary),Arsenic dissolved,Loc-Almyros,,2018-01-01,2018-12-31,,,5.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-ArsenicDissolved-2019,Observation - Almyros Arsenic dissolved (2019 summary),Arsenic dissolved,Loc-Almyros,,2019-01-01,2019-12-31,,,5.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-ArsenicDissolved-2020,Observation - Almyros Arsenic dissolved (2020 summary),Arsenic dissolved,Loc-Almyros,,2020-01-01,2020-12-31,,,5.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-ArsenicDissolved-2013,Observation - Almyros Arsenic dissolved (2013 summary),Arsenic dissolved,Loc-Almyros,,2013-01-01,2013-12-31,,,5.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-ArsenicDissolved-2014,Observation - Almyros Arsenic dissolved (2014 summary),Arsenic dissolved,Loc-Almyros,,2014-01-01,2014-12-31,,,5.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-CadmiumDissolved-2018,Observation - Almyros Cadmium dissolved (2018 summary),Cadmium dissolved,Loc-Almyros,,2018-01-01,2018-12-31,,,0.5,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-CadmiumDissolved-2019,Observation - Almyros Cadmium dissolved (2019 summary),Cadmium dissolved,Loc-Almyros,,2019-01-01,2019-12-31,,,0.5,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-CadmiumDissolved-2020,Observation - Almyros Cadmium dissolved (2020 summary),Cadmium dissolved,Loc-Almyros,,2020-01-01,2020-12-31,,,0.5,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-CadmiumDissolved-2013,Observation - Almyros Cadmium dissolved (2013 summary),Cadmium dissolved,Loc-Almyros,,2013-01-01,2013-12-31,,,0.5,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-CadmiumDissolved-2014,Observation - Almyros Cadmium dissolved (2014 summary),Cadmium dissolved,Loc-Almyros,,2014-01-01,2014-12-31,,,0.5,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-Calcium-2018,Observation - Almyros Calcium (2018 summary),Calcium,Loc-Almyros,,2018-01-01,2018-12-31,,,64.45,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Calcium-2019,Observation - Almyros Calcium (2019 summary),Calcium,Loc-Almyros,,2019-01-01,2019-12-31,,,72.6,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Calcium-2020,Observation - Almyros Calcium (2020 summary),Calcium,Loc-Almyros,,2020-01-01,2020-12-31,,,73.0,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Carbonates-2018,Observation - Almyros Carbonates (2018 summary),Carbonates,Loc-Almyros,,2018-01-01,2018-12-31,,,0.0,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Carbonates-2019,Observation - Almyros Carbonates (2019 summary),Carbonates,Loc-Almyros,,2019-01-01,2019-12-31,,,0.0,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Carbonates-2020,Observation - Almyros Carbonates (2020 summary),Carbonates,Loc-Almyros,,2020-01-01,2020-12-31,,,0.0,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Chloride-2018,Observation - Almyros Chloride (2018 summary),Chloride,Loc-Almyros,,2018-01-01,2018-12-31,,,296.0,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Chloride-2019,Observation - Almyros Chloride (2019 summary),Chloride,Loc-Almyros,,2019-01-01,2019-12-31,,,139.2,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Chloride-2020,Observation - Almyros Chloride (2020 summary),Chloride,Loc-Almyros,,2020-01-01,2020-12-31,,,112.1,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Chloride-2013,Observation - Almyros Chloride (2013 summary),Chloride,Loc-Almyros,,2013-01-01,2013-12-31,,,167.65,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Chloride-2014,Observation - Almyros Chloride (2014 summary),Chloride,Loc-Almyros,,2014-01-01,2014-12-31,,,284.5,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Chloride-2015,Observation - Almyros Chloride (2015 summary),Chloride,Loc-Almyros,,2015-01-01,2015-12-31,,,117.0,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Chromium6-2018,Observation - Almyros Chromium 6+ (2018 summary),Chromium 6+,Loc-Almyros,,2018-01-01,2018-12-31,,,10.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-Chromium6-2019,Observation - Almyros Chromium 6+ (2019 summary),Chromium 6+,Loc-Almyros,,2019-01-01,2019-12-31,,,10.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-Chromium6-2020,Observation - Almyros Chromium 6+ (2020 summary),Chromium 6+,Loc-Almyros,,2020-01-01,2020-12-31,,,5.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-Chromium6-2013,Observation - Almyros Chromium 6+ (2013 summary),Chromium 6+,Loc-Almyros,,2013-01-01,2013-12-31,,,10.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-Chromium6-2014,Observation - Almyros Chromium 6+ (2014 summary),Chromium 6+,Loc-Almyros,,2014-01-01,2014-12-31,,,10.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-ChromiumDissolved-2018,Observation - Almyros Chromium dissolved (2018 summary),Chromium dissolved,Loc-Almyros,,2018-01-01,2018-12-31,,,5.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-ChromiumDissolved-2019,Observation - Almyros Chromium dissolved (2019 summary),Chromium dissolved,Loc-Almyros,,2019-01-01,2019-12-31,,,5.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-ChromiumDissolved-2013,Observation - Almyros Chromium dissolved (2013 summary),Chromium dissolved,Loc-Almyros,,2013-01-01,2013-12-31,,,5.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-ChromiumDissolved-2014,Observation - Almyros Chromium dissolved (2014 summary),Chromium dissolved,Loc-Almyros,,2014-01-01,2014-12-31,,,5.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-CopperDissolved-2018,Observation - Almyros Copper dissolved (2018 summary),Copper dissolved,Loc-Almyros,,2018-01-01,2018-12-31,,,8.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-CopperDissolved-2019,Observation - Almyros Copper dissolved (2019 summary),Copper dissolved,Loc-Almyros,,2019-01-01,2019-12-31,,,5.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-CopperDissolved-2020,Observation - Almyros Copper dissolved (2020 summary),Copper dissolved,Loc-Almyros,,2020-01-01,2020-12-31,,,5.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-CopperDissolved-2013,Observation - Almyros Copper dissolved (2013 summary),Copper dissolved,Loc-Almyros,,2013-01-01,2013-12-31,,,10.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-CopperDissolved-2014,Observation - Almyros Copper dissolved (2014 summary),Copper dissolved,Loc-Almyros,,2014-01-01,2014-12-31,,,5.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-DissolvedOxygen-2018,Observation - Almyros Dissolved Oxygen (2018 summary),Dissolved Oxygen,Loc-Almyros,,2018-01-01,2018-12-31,,,8.65,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-DissolvedOxygen-2019,Observation - Almyros Dissolved Oxygen (2019 summary),Dissolved Oxygen,Loc-Almyros,,2019-01-01,2019-12-31,,,7.2,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-DissolvedOxygen-2020,Observation - Almyros Dissolved Oxygen (2020 summary),Dissolved Oxygen,Loc-Almyros,,2020-01-01,2020-12-31,,,5.65,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-DissolvedOxygen-2013,Observation - Almyros Dissolved Oxygen (2013 summary),Dissolved Oxygen,Loc-Almyros,,2013-01-01,2013-12-31,,,6.9,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-DissolvedOxygen-2014,Observation - Almyros Dissolved Oxygen (2014 summary),Dissolved Oxygen,Loc-Almyros,,2014-01-01,2014-12-31,,,6.9,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-DissolvedOxygen-2015,Observation - Almyros Dissolved Oxygen (2015 summary),Dissolved Oxygen,Loc-Almyros,,2015-01-01,2015-12-31,,,7.6,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-ElectricalConductivity-2018,Observation - Almyros Electrical conductivity (2018 summary),Electrical conductivity,Loc-Almyros,,2018-01-01,2018-12-31,,,1335.5,uS/cm,almyros_gov_chem.fsh
+Obs-Almyros-ElectricalConductivity-2019,Observation - Almyros Electrical conductivity (2019 summary),Electrical conductivity,Loc-Almyros,,2019-01-01,2019-12-31,,,782.0,uS/cm,almyros_gov_chem.fsh
+Obs-Almyros-ElectricalConductivity-2020,Observation - Almyros Electrical conductivity (2020 summary),Electrical conductivity,Loc-Almyros,,2020-01-01,2020-12-31,,,869.0,uS/cm,almyros_gov_chem.fsh
+Obs-Almyros-ElectricalConductivity-2013,Observation - Almyros Electrical conductivity (2013 summary),Electrical conductivity,Loc-Almyros,,2013-01-01,2013-12-31,,,981.5,uS/cm,almyros_gov_chem.fsh
+Obs-Almyros-ElectricalConductivity-2014,Observation - Almyros Electrical conductivity (2014 summary),Electrical conductivity,Loc-Almyros,,2014-01-01,2014-12-31,,,1189.5,uS/cm,almyros_gov_chem.fsh
+Obs-Almyros-ElectricalConductivity-2015,Observation - Almyros Electrical conductivity (2015 summary),Electrical conductivity,Loc-Almyros,,2015-01-01,2015-12-31,,,565.0,uS/cm,almyros_gov_chem.fsh
+Obs-Almyros-HydrogenCarbonateBicarbonateHco3-2018,Observation - Almyros Hydrogen carbonate (Bicarbonate) HCO3 (2018 summary),Hydrogen carbonate (Bicarbonate) HCO3,Loc-Almyros,,2018-01-01,2018-12-31,,,159.5,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-HydrogenCarbonateBicarbonateHco3-2019,Observation - Almyros Hydrogen carbonate (Bicarbonate) HCO3 (2019 summary),Hydrogen carbonate (Bicarbonate) HCO3,Loc-Almyros,,2019-01-01,2019-12-31,,,268.0,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-HydrogenCarbonateBicarbonateHco3-2020,Observation - Almyros Hydrogen carbonate (Bicarbonate) HCO3 (2020 summary),Hydrogen carbonate (Bicarbonate) HCO3,Loc-Almyros,,2020-01-01,2020-12-31,,,256.0,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-IronDissolved-2018,Observation - Almyros Iron dissolved (2018 summary),Iron dissolved,Loc-Almyros,,2018-01-01,2018-12-31,,,10.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-IronDissolved-2019,Observation - Almyros Iron dissolved (2019 summary),Iron dissolved,Loc-Almyros,,2019-01-01,2019-12-31,,,24.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-IronDissolved-2020,Observation - Almyros Iron dissolved (2020 summary),Iron dissolved,Loc-Almyros,,2020-01-01,2020-12-31,,,20.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-IronDissolved-2013,Observation - Almyros Iron dissolved (2013 summary),Iron dissolved,Loc-Almyros,,2013-01-01,2013-12-31,,,12.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-IronDissolved-2014,Observation - Almyros Iron dissolved (2014 summary),Iron dissolved,Loc-Almyros,,2014-01-01,2014-12-31,,,94.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-LeadDissolved-2018,Observation - Almyros Lead dissolved (2018 summary),Lead dissolved,Loc-Almyros,,2018-01-01,2018-12-31,,,5.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-LeadDissolved-2019,Observation - Almyros Lead dissolved (2019 summary),Lead dissolved,Loc-Almyros,,2019-01-01,2019-12-31,,,5.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-LeadDissolved-2020,Observation - Almyros Lead dissolved (2020 summary),Lead dissolved,Loc-Almyros,,2020-01-01,2020-12-31,,,5.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-LeadDissolved-2013,Observation - Almyros Lead dissolved (2013 summary),Lead dissolved,Loc-Almyros,,2013-01-01,2013-12-31,,,5.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-LeadDissolved-2014,Observation - Almyros Lead dissolved (2014 summary),Lead dissolved,Loc-Almyros,,2014-01-01,2014-12-31,,,5.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-Magnesium-2018,Observation - Almyros Magnesium (2018 summary),Magnesium,Loc-Almyros,,2018-01-01,2018-12-31,,,30.85,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Magnesium-2019,Observation - Almyros Magnesium (2019 summary),Magnesium,Loc-Almyros,,2019-01-01,2019-12-31,,,31.75,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Magnesium-2020,Observation - Almyros Magnesium (2020 summary),Magnesium,Loc-Almyros,,2020-01-01,2020-12-31,,,28.1,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-ManganeseDissolved-2018,Observation - Almyros Manganese dissolved (2018 summary),Manganese dissolved,Loc-Almyros,,2018-01-01,2018-12-31,,,5.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-ManganeseDissolved-2019,Observation - Almyros Manganese dissolved (2019 summary),Manganese dissolved,Loc-Almyros,,2019-01-01,2019-12-31,,,20.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-ManganeseDissolved-2020,Observation - Almyros Manganese dissolved (2020 summary),Manganese dissolved,Loc-Almyros,,2020-01-01,2020-12-31,,,5.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-ManganeseDissolved-2013,Observation - Almyros Manganese dissolved (2013 summary),Manganese dissolved,Loc-Almyros,,2013-01-01,2013-12-31,,,5.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-ManganeseDissolved-2014,Observation - Almyros Manganese dissolved (2014 summary),Manganese dissolved,Loc-Almyros,,2014-01-01,2014-12-31,,,5.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-MercuryDissolved-2018,Observation - Almyros Mercury dissolved (2018 summary),Mercury dissolved,Loc-Almyros,,2018-01-01,2018-12-31,,,0.5,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-MercuryDissolved-2019,Observation - Almyros Mercury dissolved (2019 summary),Mercury dissolved,Loc-Almyros,,2019-01-01,2019-12-31,,,0.5,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-MercuryDissolved-2020,Observation - Almyros Mercury dissolved (2020 summary),Mercury dissolved,Loc-Almyros,,2020-01-01,2020-12-31,,,0.5,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-MercuryDissolved-2013,Observation - Almyros Mercury dissolved (2013 summary),Mercury dissolved,Loc-Almyros,,2013-01-01,2013-12-31,,,0.5,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-MercuryDissolved-2014,Observation - Almyros Mercury dissolved (2014 summary),Mercury dissolved,Loc-Almyros,,2014-01-01,2014-12-31,,,0.5,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-NickelDissolved-2018,Observation - Almyros Nickel dissolved (2018 summary),Nickel dissolved,Loc-Almyros,,2018-01-01,2018-12-31,,,5.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-NickelDissolved-2019,Observation - Almyros Nickel dissolved (2019 summary),Nickel dissolved,Loc-Almyros,,2019-01-01,2019-12-31,,,5.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-NickelDissolved-2020,Observation - Almyros Nickel dissolved (2020 summary),Nickel dissolved,Loc-Almyros,,2020-01-01,2020-12-31,,,49.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-NickelDissolved-2013,Observation - Almyros Nickel dissolved (2013 summary),Nickel dissolved,Loc-Almyros,,2013-01-01,2013-12-31,,,5.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-NickelDissolved-2014,Observation - Almyros Nickel dissolved (2014 summary),Nickel dissolved,Loc-Almyros,,2014-01-01,2014-12-31,,,5.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-Nitrate-2018,Observation - Almyros Nitrate (2018 summary),Nitrate,Loc-Almyros,,2018-01-01,2018-12-31,,,3.01,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Nitrate-2019,Observation - Almyros Nitrate (2019 summary),Nitrate,Loc-Almyros,,2019-01-01,2019-12-31,,,10.3,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Nitrate-2020,Observation - Almyros Nitrate (2020 summary),Nitrate,Loc-Almyros,,2020-01-01,2020-12-31,,,17.3,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Nitrate-2013,Observation - Almyros Nitrate (2013 summary),Nitrate,Loc-Almyros,,2013-01-01,2013-12-31,,,14.5,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Nitrate-2014,Observation - Almyros Nitrate (2014 summary),Nitrate,Loc-Almyros,,2014-01-01,2014-12-31,,,10.05,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Nitrate-2015,Observation - Almyros Nitrate (2015 summary),Nitrate,Loc-Almyros,,2015-01-01,2015-12-31,,,5.0,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Nitrite-2018,Observation - Almyros Nitrite (2018 summary),Nitrite,Loc-Almyros,,2018-01-01,2018-12-31,,,0.01,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Nitrite-2019,Observation - Almyros Nitrite (2019 summary),Nitrite,Loc-Almyros,,2019-01-01,2019-12-31,,,0.0,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Nitrite-2020,Observation - Almyros Nitrite (2020 summary),Nitrite,Loc-Almyros,,2020-01-01,2020-12-31,,,0.0,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Nitrite-2013,Observation - Almyros Nitrite (2013 summary),Nitrite,Loc-Almyros,,2013-01-01,2013-12-31,,,0.05,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Nitrite-2014,Observation - Almyros Nitrite (2014 summary),Nitrite,Loc-Almyros,,2014-01-01,2014-12-31,,,0.44,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Nitrite-2015,Observation - Almyros Nitrite (2015 summary),Nitrite,Loc-Almyros,,2015-01-01,2015-12-31,,,0.05,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Ph-2018,Observation - Almyros pH (2018 summary),pH,Loc-Almyros,,2018-01-01,2018-12-31,,,,,almyros_gov_chem.fsh
+Obs-Almyros-Ph-2019,Observation - Almyros pH (2019 summary),pH,Loc-Almyros,,2019-01-01,2019-12-31,,,,,almyros_gov_chem.fsh
+Obs-Almyros-Ph-2020,Observation - Almyros pH (2020 summary),pH,Loc-Almyros,,2020-01-01,2020-12-31,,,,,almyros_gov_chem.fsh
+Obs-Almyros-Ph-2013,Observation - Almyros pH (2013 summary),pH,Loc-Almyros,,2013-01-01,2013-12-31,,,7.59,pH,almyros_gov_chem.fsh
+Obs-Almyros-Ph-2014,Observation - Almyros pH (2014 summary),pH,Loc-Almyros,,2014-01-01,2014-12-31,,,7.27,pH,almyros_gov_chem.fsh
+Obs-Almyros-Ph-2015,Observation - Almyros pH (2015 summary),pH,Loc-Almyros,,2015-01-01,2015-12-31,,,7.74,pH,almyros_gov_chem.fsh
+Obs-Almyros-Potassium-2018,Observation - Almyros Potassium (2018 summary),Potassium,Loc-Almyros,,2018-01-01,2018-12-31,,,7.13,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Potassium-2019,Observation - Almyros Potassium (2019 summary),Potassium,Loc-Almyros,,2019-01-01,2019-12-31,,,4.1,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Potassium-2020,Observation - Almyros Potassium (2020 summary),Potassium,Loc-Almyros,,2020-01-01,2020-12-31,,,1.98,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Sodium-2018,Observation - Almyros Sodium (2018 summary),Sodium,Loc-Almyros,,2018-01-01,2018-12-31,,,142.0,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Sodium-2019,Observation - Almyros Sodium (2019 summary),Sodium,Loc-Almyros,,2019-01-01,2019-12-31,,,73.35,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Sodium-2020,Observation - Almyros Sodium (2020 summary),Sodium,Loc-Almyros,,2020-01-01,2020-12-31,,,58.5,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Sulphate-2018,Observation - Almyros Sulphate (2018 summary),Sulphate,Loc-Almyros,,2018-01-01,2018-12-31,,,59.3,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Sulphate-2019,Observation - Almyros Sulphate (2019 summary),Sulphate,Loc-Almyros,,2019-01-01,2019-12-31,,,59.95,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Sulphate-2020,Observation - Almyros Sulphate (2020 summary),Sulphate,Loc-Almyros,,2020-01-01,2020-12-31,,,36.0,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Sulphate-2013,Observation - Almyros Sulphate (2013 summary),Sulphate,Loc-Almyros,,2013-01-01,2013-12-31,,,41.6,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Sulphate-2014,Observation - Almyros Sulphate (2014 summary),Sulphate,Loc-Almyros,,2014-01-01,2014-12-31,,,67.0,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-Sulphate-2015,Observation - Almyros Sulphate (2015 summary),Sulphate,Loc-Almyros,,2015-01-01,2015-12-31,,,18.37,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-TemperatureWater-2018,Observation - Almyros Temperature (water) (2018 summary),Temperature (water),Loc-Almyros,,2018-01-01,2018-12-31,,,21.5,Cel,almyros_gov_chem.fsh
+Obs-Almyros-TemperatureWater-2019,Observation - Almyros Temperature (water) (2019 summary),Temperature (water),Loc-Almyros,,2019-01-01,2019-12-31,,,20.3,Cel,almyros_gov_chem.fsh
+Obs-Almyros-TemperatureWater-2020,Observation - Almyros Temperature (water) (2020 summary),Temperature (water),Loc-Almyros,,2020-01-01,2020-12-31,,,21.6,Cel,almyros_gov_chem.fsh
+Obs-Almyros-TemperatureWater-2013,Observation - Almyros Temperature (water) (2013 summary),Temperature (water),Loc-Almyros,,2013-01-01,2013-12-31,,,19.8,Cel,almyros_gov_chem.fsh
+Obs-Almyros-TemperatureWater-2014,Observation - Almyros Temperature (water) (2014 summary),Temperature (water),Loc-Almyros,,2014-01-01,2014-12-31,,,22.5,Cel,almyros_gov_chem.fsh
+Obs-Almyros-TemperatureWater-2015,Observation - Almyros Temperature (water) (2015 summary),Temperature (water),Loc-Almyros,,2015-01-01,2015-12-31,,,20.0,Cel,almyros_gov_chem.fsh
+Obs-Almyros-TotalPhosphates-2018,Observation - Almyros Total phosphates (2018 summary),Total phosphates,Loc-Almyros,,2018-01-01,2018-12-31,,,0.0,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-TotalPhosphates-2019,Observation - Almyros Total phosphates (2019 summary),Total phosphates,Loc-Almyros,,2019-01-01,2019-12-31,,,0.04,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-TotalPhosphates-2020,Observation - Almyros Total phosphates (2020 summary),Total phosphates,Loc-Almyros,,2020-01-01,2020-12-31,,,0.01,mg/L,almyros_gov_chem.fsh
+Obs-Almyros-ZincDissolved-2013,Observation - Almyros Zinc dissolved (2013 summary),Zinc dissolved,Loc-Almyros,,2013-01-01,2013-12-31,,,10.0,ug/L,almyros_gov_chem.fsh
+Obs-Almyros-ZincDissolved-2014,Observation - Almyros Zinc dissolved (2014 summary),Zinc dissolved,Loc-Almyros,,2014-01-01,2014-12-31,,,5.0,ug/L,almyros_gov_chem.fsh
+Obs-Benevento01-Benzene-2018,Observation - Benevento01 Benzene (2018 summary),Benzene,Loc-Benevento-01,,2018-01-01,2018-12-31,,,1.2,ug/m3,benevento_pollutant_01.fsh
+Obs-Benevento01-No2-2018,Observation - Benevento01 NO2 (2018 summary),NO2,Loc-Benevento-01,,2018-01-01,2018-12-31,,,23.8,ug/m3,benevento_pollutant_01.fsh
+Obs-Benevento01-O3-2018,Observation - Benevento01 O3 (2018 summary),O3,Loc-Benevento-01,,2018-01-01,2018-12-31,,,10.9,ug/m3,benevento_pollutant_01.fsh
+Obs-Benevento01-Pm10-2018,Observation - Benevento01 PM10 (2018 summary),PM10,Loc-Benevento-01,,2018-01-01,2018-12-31,,,23.9,ug/m3,benevento_pollutant_01.fsh
+Obs-Benevento01-Pm25-2018,Observation - Benevento01 PM2.5 (2018 summary),PM2.5,Loc-Benevento-01,,2018-01-01,2018-12-31,,,21.9,ug/m3,benevento_pollutant_01.fsh
+Obs-Benevento01-Benzene-2019,Observation - Benevento01 Benzene (2019 summary),Benzene,Loc-Benevento-01,,2019-01-01,2019-12-31,,,0.9,ug/m3,benevento_pollutant_01.fsh
+Obs-Benevento01-No2-2019,Observation - Benevento01 NO2 (2019 summary),NO2,Loc-Benevento-01,,2019-01-01,2019-12-31,,,19.5,ug/m3,benevento_pollutant_01.fsh
+Obs-Benevento01-O3-2019,Observation - Benevento01 O3 (2019 summary),O3,Loc-Benevento-01,,2019-01-01,2019-12-31,,,42.5,ug/m3,benevento_pollutant_01.fsh
+Obs-Benevento01-Pm10-2019,Observation - Benevento01 PM10 (2019 summary),PM10,Loc-Benevento-01,,2019-01-01,2019-12-31,,,17.1,ug/m3,benevento_pollutant_01.fsh
+Obs-Benevento01-Pm25-2019,Observation - Benevento01 PM2.5 (2019 summary),PM2.5,Loc-Benevento-01,,2019-01-01,2019-12-31,,,18.1,ug/m3,benevento_pollutant_01.fsh
+Obs-Benevento02-Benzene-2018,Observation - Benevento02 Benzene (2018 summary),Benzene,Loc-Benevento-02,,2018-01-01,2018-12-31,,,1.0,ug/m3,benevento_pollutant_02.fsh
+Obs-Benevento02-No2-2018,Observation - Benevento02 NO2 (2018 summary),NO2,Loc-Benevento-02,,2018-01-01,2018-12-31,,,24.1,ug/m3,benevento_pollutant_02.fsh
+Obs-Benevento02-O3-2018,Observation - Benevento02 O3 (2018 summary),O3,Loc-Benevento-02,,2018-01-01,2018-12-31,,,28.05,ug/m3,benevento_pollutant_02.fsh
+Obs-Benevento02-Pm10-2018,Observation - Benevento02 PM10 (2018 summary),PM10,Loc-Benevento-02,,2018-01-01,2018-12-31,,,13.1,ug/m3,benevento_pollutant_02.fsh
+Obs-Benevento02-Pm25-2018,Observation - Benevento02 PM2.5 (2018 summary),PM2.5,Loc-Benevento-02,,2018-01-01,2018-12-31,,,18.0,ug/m3,benevento_pollutant_02.fsh
+Obs-Benevento02-Benzene-2019,Observation - Benevento02 Benzene (2019 summary),Benzene,Loc-Benevento-02,,2019-01-01,2019-12-31,,,0.7,ug/m3,benevento_pollutant_02.fsh
+Obs-Benevento02-No2-2019,Observation - Benevento02 NO2 (2019 summary),NO2,Loc-Benevento-02,,2019-01-01,2019-12-31,,,18.8,ug/m3,benevento_pollutant_02.fsh
+Obs-Benevento02-O3-2019,Observation - Benevento02 O3 (2019 summary),O3,Loc-Benevento-02,,2019-01-01,2019-12-31,,,60.9,ug/m3,benevento_pollutant_02.fsh
+Obs-Benevento02-Pm10-2019,Observation - Benevento02 PM10 (2019 summary),PM10,Loc-Benevento-02,,2019-01-01,2019-12-31,,,19.4,ug/m3,benevento_pollutant_02.fsh
+Obs-Benevento02-Pm25-2019,Observation - Benevento02 PM2.5 (2019 summary),PM2.5,Loc-Benevento-02,,2019-01-01,2019-12-31,,,15.5,ug/m3,benevento_pollutant_02.fsh
+Obs-Benevento03-Benzene-2018,Observation - Benevento03 Benzene (2018 summary),Benzene,Loc-Benevento-03,,2018-01-01,2018-12-31,,,0.6,ug/m3,benevento_pollutant_03.fsh
+Obs-Benevento03-No2-2018,Observation - Benevento03 NO2 (2018 summary),NO2,Loc-Benevento-03,,2018-01-01,2018-12-31,,,17.8,ug/m3,benevento_pollutant_03.fsh
+Obs-Benevento03-O3-2018,Observation - Benevento03 O3 (2018 summary),O3,Loc-Benevento-03,,2018-01-01,2018-12-31,,,41.55,ug/m3,benevento_pollutant_03.fsh
+Obs-Benevento03-Pm10-2018,Observation - Benevento03 PM10 (2018 summary),PM10,Loc-Benevento-03,,2018-01-01,2018-12-31,,,15.5,ug/m3,benevento_pollutant_03.fsh
+Obs-Benevento03-Pm25-2018,Observation - Benevento03 PM2.5 (2018 summary),PM2.5,Loc-Benevento-03,,2018-01-01,2018-12-31,,,11.5,ug/m3,benevento_pollutant_03.fsh
+Obs-Benevento03-Benzene-2019,Observation - Benevento03 Benzene (2019 summary),Benzene,Loc-Benevento-03,,2019-01-01,2019-12-31,,,0.7,ug/m3,benevento_pollutant_03.fsh
+Obs-Benevento03-No2-2019,Observation - Benevento03 NO2 (2019 summary),NO2,Loc-Benevento-03,,2019-01-01,2019-12-31,,,15.9,ug/m3,benevento_pollutant_03.fsh
+Obs-Benevento03-O3-2019,Observation - Benevento03 O3 (2019 summary),O3,Loc-Benevento-03,,2019-01-01,2019-12-31,,,63.5,ug/m3,benevento_pollutant_03.fsh
+Obs-Benevento03-Pm10-2019,Observation - Benevento03 PM10 (2019 summary),PM10,Loc-Benevento-03,,2019-01-01,2019-12-31,,,17.4,ug/m3,benevento_pollutant_03.fsh
+Obs-Benevento03-Pm25-2019,Observation - Benevento03 PM2.5 (2019 summary),PM2.5,Loc-Benevento-03,,2019-01-01,2019-12-31,,,15.5,ug/m3,benevento_pollutant_03.fsh
+Obs-Benevento04-Benzene-2018,Observation - Benevento04 Benzene (2018 summary),Benzene,Loc-Benevento-04,,2018-01-01,2018-12-31,,,0.3,ug/m3,benevento_pollutant_04.fsh
+Obs-Benevento04-No2-2018,Observation - Benevento04 NO2 (2018 summary),NO2,Loc-Benevento-04,,2018-01-01,2018-12-31,,,20.4,ug/m3,benevento_pollutant_04.fsh
+Obs-Benevento04-O3-2018,Observation - Benevento04 O3 (2018 summary),O3,Loc-Benevento-04,,2018-01-01,2018-12-31,,,29.15,ug/m3,benevento_pollutant_04.fsh
+Obs-Benevento04-Pm10-2018,Observation - Benevento04 PM10 (2018 summary),PM10,Loc-Benevento-04,,2018-01-01,2018-12-31,,,20.3,ug/m3,benevento_pollutant_04.fsh
+Obs-Benevento04-Pm25-2018,Observation - Benevento04 PM2.5 (2018 summary),PM2.5,Loc-Benevento-04,,2018-01-01,2018-12-31,,,13.8,ug/m3,benevento_pollutant_04.fsh
+Obs-Benevento04-Benzene-2019,Observation - Benevento04 Benzene (2019 summary),Benzene,Loc-Benevento-04,,2019-01-01,2019-12-31,,,0.6,ug/m3,benevento_pollutant_04.fsh
+Obs-Benevento04-No2-2019,Observation - Benevento04 NO2 (2019 summary),NO2,Loc-Benevento-04,,2019-01-01,2019-12-31,,,14.5,ug/m3,benevento_pollutant_04.fsh
+Obs-Benevento04-O3-2019,Observation - Benevento04 O3 (2019 summary),O3,Loc-Benevento-04,,2019-01-01,2019-12-31,,,53.15,ug/m3,benevento_pollutant_04.fsh
+Obs-Benevento04-Pm10-2019,Observation - Benevento04 PM10 (2019 summary),PM10,Loc-Benevento-04,,2019-01-01,2019-12-31,,,16.1,ug/m3,benevento_pollutant_04.fsh
+Obs-Benevento04-Pm25-2019,Observation - Benevento04 PM2.5 (2019 summary),PM2.5,Loc-Benevento-04,,2019-01-01,2019-12-31,,,12.7,ug/m3,benevento_pollutant_04.fsh
+Obs-Benevento05-Benzene-2018,Observation - Benevento05 Benzene (2018 summary),Benzene,Loc-Benevento-05,,2018-01-01,2018-12-31,,,0.2,ug/m3,benevento_pollutant_05.fsh
+Obs-Benevento05-No2-2018,Observation - Benevento05 NO2 (2018 summary),NO2,Loc-Benevento-05,,2018-01-01,2018-12-31,,,11.3,ug/m3,benevento_pollutant_05.fsh
+Obs-Benevento05-O3-2018,Observation - Benevento05 O3 (2018 summary),O3,Loc-Benevento-05,,2018-01-01,2018-12-31,,,18.7,ug/m3,benevento_pollutant_05.fsh
+Obs-Benevento05-Pm10-2018,Observation - Benevento05 PM10 (2018 summary),PM10,Loc-Benevento-05,,2018-01-01,2018-12-31,,,11.6,ug/m3,benevento_pollutant_05.fsh
+Obs-Benevento05-Pm25-2018,Observation - Benevento05 PM2.5 (2018 summary),PM2.5,Loc-Benevento-05,,2018-01-01,2018-12-31,,,8.9,ug/m3,benevento_pollutant_05.fsh
+Obs-Benevento05-Benzene-2019,Observation - Benevento05 Benzene (2019 summary),Benzene,Loc-Benevento-05,,2019-01-01,2019-12-31,,,0.1,ug/m3,benevento_pollutant_05.fsh
+Obs-Benevento05-No2-2019,Observation - Benevento05 NO2 (2019 summary),NO2,Loc-Benevento-05,,2019-01-01,2019-12-31,,,10.0,ug/m3,benevento_pollutant_05.fsh
+Obs-Benevento05-O3-2019,Observation - Benevento05 O3 (2019 summary),O3,Loc-Benevento-05,,2019-01-01,2019-12-31,,,58.7,ug/m3,benevento_pollutant_05.fsh
+Obs-Benevento05-Pm10-2019,Observation - Benevento05 PM10 (2019 summary),PM10,Loc-Benevento-05,,2019-01-01,2019-12-31,,,9.8,ug/m3,benevento_pollutant_05.fsh
+Obs-Benevento05-Pm25-2019,Observation - Benevento05 PM2.5 (2019 summary),PM2.5,Loc-Benevento-05,,2019-01-01,2019-12-31,,,7.1,ug/m3,benevento_pollutant_05.fsh
+Obs-Benevento06-Benzene-2018,Observation - Benevento06 Benzene (2018 summary),Benzene,Loc-Benevento-06,,2018-01-01,2018-12-31,,,1.5,ug/m3,benevento_pollutant_06.fsh
+Obs-Benevento06-No2-2018,Observation - Benevento06 NO2 (2018 summary),NO2,Loc-Benevento-06,,2018-01-01,2018-12-31,,,9.9,ug/m3,benevento_pollutant_06.fsh
+Obs-Benevento06-O3-2018,Observation - Benevento06 O3 (2018 summary),O3,Loc-Benevento-06,,2018-01-01,2018-12-31,,,72.1,ug/m3,benevento_pollutant_06.fsh
+Obs-Benevento06-Pm10-2018,Observation - Benevento06 PM10 (2018 summary),PM10,Loc-Benevento-06,,2018-01-01,2018-12-31,,,14.8,ug/m3,benevento_pollutant_06.fsh
+Obs-Benevento06-Pm25-2018,Observation - Benevento06 PM2.5 (2018 summary),PM2.5,Loc-Benevento-06,,2018-01-01,2018-12-31,,,8.4,ug/m3,benevento_pollutant_06.fsh
+Obs-Benevento06-Benzene-2019,Observation - Benevento06 Benzene (2019 summary),Benzene,Loc-Benevento-06,,2019-01-01,2019-12-31,,,0.1,ug/m3,benevento_pollutant_06.fsh
+Obs-Benevento06-No2-2019,Observation - Benevento06 NO2 (2019 summary),NO2,Loc-Benevento-06,,2019-01-01,2019-12-31,,,7.7,ug/m3,benevento_pollutant_06.fsh
+Obs-Benevento06-O3-2019,Observation - Benevento06 O3 (2019 summary),O3,Loc-Benevento-06,,2019-01-01,2019-12-31,,,60.3,ug/m3,benevento_pollutant_06.fsh
+Obs-Benevento06-Pm10-2019,Observation - Benevento06 PM10 (2019 summary),PM10,Loc-Benevento-06,,2019-01-01,2019-12-31,,,20.6,ug/m3,benevento_pollutant_06.fsh
+Obs-Benevento06-Pm25-2019,Observation - Benevento06 PM2.5 (2019 summary),PM2.5,Loc-Benevento-06,,2019-01-01,2019-12-31,,,13.2,ug/m3,benevento_pollutant_06.fsh
+Obs-Benevento07-Benzene-2018,Observation - Benevento07 Benzene (2018 summary),Benzene,Loc-Benevento-07,,2018-01-01,2018-12-31,,,0.2,ug/m3,benevento_pollutant_07.fsh
+Obs-Benevento07-No2-2018,Observation - Benevento07 NO2 (2018 summary),NO2,Loc-Benevento-07,,2018-01-01,2018-12-31,,,8.1,ug/m3,benevento_pollutant_07.fsh
+Obs-Benevento07-O3-2018,Observation - Benevento07 O3 (2018 summary),O3,Loc-Benevento-07,,2018-01-01,2018-12-31,,,66.9,ug/m3,benevento_pollutant_07.fsh
+Obs-Benevento07-Pm10-2018,Observation - Benevento07 PM10 (2018 summary),PM10,Loc-Benevento-07,,2018-01-01,2018-12-31,,,20.6,ug/m3,benevento_pollutant_07.fsh
+Obs-Benevento07-Pm25-2018,Observation - Benevento07 PM2.5 (2018 summary),PM2.5,Loc-Benevento-07,,2018-01-01,2018-12-31,,,12.4,ug/m3,benevento_pollutant_07.fsh
+Obs-Benevento07-Benzene-2019,Observation - Benevento07 Benzene (2019 summary),Benzene,Loc-Benevento-07,,2019-01-01,2019-12-31,,,0.3,ug/m3,benevento_pollutant_07.fsh
+Obs-Benevento07-No2-2019,Observation - Benevento07 NO2 (2019 summary),NO2,Loc-Benevento-07,,2019-01-01,2019-12-31,,,9.3,ug/m3,benevento_pollutant_07.fsh
+Obs-Benevento07-O3-2019,Observation - Benevento07 O3 (2019 summary),O3,Loc-Benevento-07,,2019-01-01,2019-12-31,,,53.35,ug/m3,benevento_pollutant_07.fsh
+Obs-Benevento07-Pm10-2019,Observation - Benevento07 PM10 (2019 summary),PM10,Loc-Benevento-07,,2019-01-01,2019-12-31,,,20.0,ug/m3,benevento_pollutant_07.fsh
+Obs-Benevento07-Pm25-2019,Observation - Benevento07 PM2.5 (2019 summary),PM2.5,Loc-Benevento-07,,2019-01-01,2019-12-31,,,12.0,ug/m3,benevento_pollutant_07.fsh
+Obs-Benevento08-Benzene-2018,Observation - Benevento08 Benzene (2018 summary),Benzene,Loc-Benevento-08,,2018-01-01,2018-12-31,,,0.2,ug/m3,benevento_pollutant_08.fsh
+Obs-Benevento08-No2-2018,Observation - Benevento08 NO2 (2018 summary),NO2,Loc-Benevento-08,,2018-01-01,2018-12-31,,,9.1,ug/m3,benevento_pollutant_08.fsh
+Obs-Benevento08-O3-2018,Observation - Benevento08 O3 (2018 summary),O3,Loc-Benevento-08,,2018-01-01,2018-12-31,,,42.2,ug/m3,benevento_pollutant_08.fsh
+Obs-Benevento08-Pm10-2018,Observation - Benevento08 PM10 (2018 summary),PM10,Loc-Benevento-08,,2018-01-01,2018-12-31,,,25.2,ug/m3,benevento_pollutant_08.fsh
+Obs-Benevento08-Pm25-2018,Observation - Benevento08 PM2.5 (2018 summary),PM2.5,Loc-Benevento-08,,2018-01-01,2018-12-31,,,13.8,ug/m3,benevento_pollutant_08.fsh
+Obs-Benevento08-Benzene-2019,Observation - Benevento08 Benzene (2019 summary),Benzene,Loc-Benevento-08,,2019-01-01,2019-12-31,,,0.4,ug/m3,benevento_pollutant_08.fsh
+Obs-Benevento08-No2-2019,Observation - Benevento08 NO2 (2019 summary),NO2,Loc-Benevento-08,,2019-01-01,2019-12-31,,,11.9,ug/m3,benevento_pollutant_08.fsh
+Obs-Benevento08-O3-2019,Observation - Benevento08 O3 (2019 summary),O3,Loc-Benevento-08,,2019-01-01,2019-12-31,,,44.9,ug/m3,benevento_pollutant_08.fsh
+Obs-Benevento08-Pm10-2019,Observation - Benevento08 PM10 (2019 summary),PM10,Loc-Benevento-08,,2019-01-01,2019-12-31,,,22.0,ug/m3,benevento_pollutant_08.fsh
+Obs-Benevento08-Pm25-2019,Observation - Benevento08 PM2.5 (2019 summary),PM2.5,Loc-Benevento-08,,2019-01-01,2019-12-31,,,14.2,ug/m3,benevento_pollutant_08.fsh
+Obs-Benevento09-Benzene-2018,Observation - Benevento09 Benzene (2018 summary),Benzene,Loc-Benevento-09,,2018-01-01,2018-12-31,,,0.4,ug/m3,benevento_pollutant_09.fsh
+Obs-Benevento09-No2-2018,Observation - Benevento09 NO2 (2018 summary),NO2,Loc-Benevento-09,,2018-01-01,2018-12-31,,,10.3,ug/m3,benevento_pollutant_09.fsh
+Obs-Benevento09-O3-2018,Observation - Benevento09 O3 (2018 summary),O3,Loc-Benevento-09,,2018-01-01,2018-12-31,,,46.9,ug/m3,benevento_pollutant_09.fsh
+Obs-Benevento09-Pm10-2018,Observation - Benevento09 PM10 (2018 summary),PM10,Loc-Benevento-09,,2018-01-01,2018-12-31,,,18.4,ug/m3,benevento_pollutant_09.fsh
+Obs-Benevento09-Pm25-2018,Observation - Benevento09 PM2.5 (2018 summary),PM2.5,Loc-Benevento-09,,2018-01-01,2018-12-31,,,12.5,ug/m3,benevento_pollutant_09.fsh
+Obs-Benevento09-Benzene-2019,Observation - Benevento09 Benzene (2019 summary),Benzene,Loc-Benevento-09,,2019-01-01,2019-12-31,,,0.4,ug/m3,benevento_pollutant_09.fsh
+Obs-Benevento09-No2-2019,Observation - Benevento09 NO2 (2019 summary),NO2,Loc-Benevento-09,,2019-01-01,2019-12-31,,,11.1,ug/m3,benevento_pollutant_09.fsh
+Obs-Benevento09-O3-2019,Observation - Benevento09 O3 (2019 summary),O3,Loc-Benevento-09,,2019-01-01,2019-12-31,,,42.0,ug/m3,benevento_pollutant_09.fsh
+Obs-Benevento09-Pm10-2019,Observation - Benevento09 PM10 (2019 summary),PM10,Loc-Benevento-09,,2019-01-01,2019-12-31,,,14.9,ug/m3,benevento_pollutant_09.fsh
+Obs-Benevento09-Pm25-2019,Observation - Benevento09 PM2.5 (2019 summary),PM2.5,Loc-Benevento-09,,2019-01-01,2019-12-31,,,11.0,ug/m3,benevento_pollutant_09.fsh
+Obs-Benevento10-Benzene-2018,Observation - Benevento10 Benzene (2018 summary),Benzene,Loc-Benevento-10,,2018-01-01,2018-12-31,,,0.3,ug/m3,benevento_pollutant_10.fsh
+Obs-Benevento10-No2-2018,Observation - Benevento10 NO2 (2018 summary),NO2,Loc-Benevento-10,,2018-01-01,2018-12-31,,,13.3,ug/m3,benevento_pollutant_10.fsh
+Obs-Benevento10-O3-2018,Observation - Benevento10 O3 (2018 summary),O3,Loc-Benevento-10,,2018-01-01,2018-12-31,,,34.8,ug/m3,benevento_pollutant_10.fsh
+Obs-Benevento10-Pm10-2018,Observation - Benevento10 PM10 (2018 summary),PM10,Loc-Benevento-10,,2018-01-01,2018-12-31,,,16.2,ug/m3,benevento_pollutant_10.fsh
+Obs-Benevento10-Pm25-2018,Observation - Benevento10 PM2.5 (2018 summary),PM2.5,Loc-Benevento-10,,2018-01-01,2018-12-31,,,11.7,ug/m3,benevento_pollutant_10.fsh
+Obs-Benevento11-No2-2018,Observation - Benevento11 NO2 (2018 summary),NO2,Loc-Benevento-11,,2018-01-01,2018-12-31,,,22.5,ug/m3,benevento_pollutant_11.fsh
+Obs-Benevento11-O3-2018,Observation - Benevento11 O3 (2018 summary),O3,Loc-Benevento-11,,2018-01-01,2018-12-31,,,42.6,ug/m3,benevento_pollutant_11.fsh
+Obs-Benevento11-Pm10-2018,Observation - Benevento11 PM10 (2018 summary),PM10,Loc-Benevento-11,,2018-01-01,2018-12-31,,,19.7,ug/m3,benevento_pollutant_11.fsh
+Obs-Benevento11-Pm25-2018,Observation - Benevento11 PM2.5 (2018 summary),PM2.5,Loc-Benevento-11,,2018-01-01,2018-12-31,,,19.15,ug/m3,benevento_pollutant_11.fsh
+Obs-Benevento12-No2-2018,Observation - Benevento12 NO2 (2018 summary),NO2,Loc-Benevento-12,,2018-01-01,2018-12-31,,,18.8,ug/m3,benevento_pollutant_12.fsh
+Obs-Benevento12-O3-2018,Observation - Benevento12 O3 (2018 summary),O3,Loc-Benevento-12,,2018-01-01,2018-12-31,,,28.5,ug/m3,benevento_pollutant_12.fsh
+Obs-Benevento12-Pm10-2018,Observation - Benevento12 PM10 (2018 summary),PM10,Loc-Benevento-12,,2018-01-01,2018-12-31,,,25.0,ug/m3,benevento_pollutant_12.fsh
+Obs-Benevento12-Pm25-2018,Observation - Benevento12 PM2.5 (2018 summary),PM2.5,Loc-Benevento-12,,2018-01-01,2018-12-31,,,21.65,ug/m3,benevento_pollutant_12.fsh
+Obs-BN-BN1-high-blood-pression-Male-Age-35-74,Observation - Benevento % of people with high blood pressure (prevalence) (BN1 Male-Age-35-74),% of people with high blood pressure (prevalence),Loc-Benevento-01,,2024-01-01,2024-12-31,39.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN1-high-blood-pression-Female-Age-35-74,Observation - Benevento % of people with high blood pressure (prevalence) (BN1 Female-Age-35-74),% of people with high blood pressure (prevalence),Loc-Benevento-01,,2024-01-01,2024-12-31,20.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN2-high-blood-pression-Male-Age-35-74,Observation - Benevento % of people with high blood pressure (prevalence) (BN2 Male-Age-35-74),% of people with high blood pressure (prevalence),Loc-Benevento-02,,2024-01-01,2024-12-31,38.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN2-high-blood-pression-Female-Age-35-74,Observation - Benevento % of people with high blood pressure (prevalence) (BN2 Female-Age-35-74),% of people with high blood pressure (prevalence),Loc-Benevento-02,,2024-01-01,2024-12-31,22.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN3-high-blood-pression-Male-Age-35-74,Observation - Benevento % of people with high blood pressure (prevalence) (BN3 Male-Age-35-74),% of people with high blood pressure (prevalence),Loc-Benevento-03,,2024-01-01,2024-12-31,31.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN3-high-blood-pression-Female-Age-35-74,Observation - Benevento % of people with high blood pressure (prevalence) (BN3 Female-Age-35-74),% of people with high blood pressure (prevalence),Loc-Benevento-03,,2024-01-01,2024-12-31,33.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN1-hypertension-Male-Age-35-74,Observation - Benevento % of people under treatment for hypertension (BN1 Male-Age-35-74),% of people under treatment for hypertension,Loc-Benevento-01,,2024-01-01,2024-12-31,44.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN1-hypertension-Female-Age-35-74,Observation - Benevento % of people under treatment for hypertension (BN1 Female-Age-35-74),% of people under treatment for hypertension,Loc-Benevento-01,,2024-01-01,2024-12-31,23.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN2-hypertension-Male-Age-35-74,Observation - Benevento % of people under treatment for hypertension (BN2 Male-Age-35-74),% of people under treatment for hypertension,Loc-Benevento-02,,2024-01-01,2024-12-31,43.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN2-hypertension-Female-Age-35-74,Observation - Benevento % of people under treatment for hypertension (BN2 Female-Age-35-74),% of people under treatment for hypertension,Loc-Benevento-02,,2024-01-01,2024-12-31,31.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN3-hypertension-Male-Age-35-74,Observation - Benevento % of people under treatment for hypertension (BN3 Male-Age-35-74),% of people under treatment for hypertension,Loc-Benevento-03,,2024-01-01,2024-12-31,29.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN3-hypertension-Female-Age-35-74,Observation - Benevento % of people under treatment for hypertension (BN3 Female-Age-35-74),% of people under treatment for hypertension,Loc-Benevento-03,,2024-01-01,2024-12-31,38.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN1-high-blood-pression-treatment-Male-Age-35-74,Observation - Benevento % of people under treatment for high blood pressure (BN1 Male-Age-35-74),% of people under treatment for high blood pressure,Loc-Benevento-01,,2024-01-01,2024-12-31,58.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN1-high-blood-pression-treatment-Female-Age-35-74,Observation - Benevento % of people under treatment for high blood pressure (BN1 Female-Age-35-74),% of people under treatment for high blood pressure,Loc-Benevento-01,,2024-01-01,2024-12-31,33.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN2-high-blood-pression-treatment-Male-Age-35-74,Observation - Benevento % of people under treatment for high blood pressure (BN2 Male-Age-35-74),% of people under treatment for high blood pressure,Loc-Benevento-02,,2024-01-01,2024-12-31,53.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN2-high-blood-pression-treatment-Female-Age-35-74,Observation - Benevento % of people under treatment for high blood pressure (BN2 Female-Age-35-74),% of people under treatment for high blood pressure,Loc-Benevento-02,,2024-01-01,2024-12-31,38.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN3-high-blood-pression-treatment-Male-Age-35-74,Observation - Benevento % of people under treatment for high blood pressure (BN3 Male-Age-35-74),% of people under treatment for high blood pressure,Loc-Benevento-03,,2024-01-01,2024-12-31,49.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN3-high-blood-pression-treatment-Female-Age-35-74,Observation - Benevento % of people under treatment for high blood pressure (BN3 Female-Age-35-74),% of people under treatment for high blood pressure,Loc-Benevento-03,,2024-01-01,2024-12-31,50.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN1-obesity-Male-Age-35-74,Observation - Benevento % of people affected from obesity (BN1 Male-Age-35-74),% of people affected from obesity,Loc-Benevento-01,,2024-01-01,2024-12-31,31.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN1-obesity-Female-Age-35-74,Observation - Benevento % of people affected from obesity (BN1 Female-Age-35-74),% of people affected from obesity,Loc-Benevento-01,,2024-01-01,2024-12-31,29.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN2-obesity-Male-Age-35-74,Observation - Benevento % of people affected from obesity (BN2 Male-Age-35-74),% of people affected from obesity,Loc-Benevento-02,,2024-01-01,2024-12-31,30.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN2-obesity-Female-Age-35-74,Observation - Benevento % of people affected from obesity (BN2 Female-Age-35-74),% of people affected from obesity,Loc-Benevento-02,,2024-01-01,2024-12-31,23.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN3-obesity-Male-Age-35-74,Observation - Benevento % of people affected from obesity (BN3 Male-Age-35-74),% of people affected from obesity,Loc-Benevento-03,,2024-01-01,2024-12-31,25.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN3-obesity-Female-Age-35-74,Observation - Benevento % of people affected from obesity (BN3 Female-Age-35-74),% of people affected from obesity,Loc-Benevento-03,,2024-01-01,2024-12-31,28.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN1-cholesterolemia-190-Male-Age-35-74,Observation - Benevento % of people with high total cholesterolemia (>=190 mg/dl) (BN1 Male-Age-35-74),% of people with high total cholesterolemia (>=190 mg/dl),Loc-Benevento-01,,2024-01-01,2024-12-31,72.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN1-cholesterolemia-190-Female-Age-35-74,Observation - Benevento % of people with high total cholesterolemia (>=190 mg/dl) (BN1 Female-Age-35-74),% of people with high total cholesterolemia (>=190 mg/dl),Loc-Benevento-01,,2024-01-01,2024-12-31,64.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN2-cholesterolemia-190-Male-Age-35-74,Observation - Benevento % of people with high total cholesterolemia (>=190 mg/dl) (BN2 Male-Age-35-74),% of people with high total cholesterolemia (>=190 mg/dl),Loc-Benevento-02,,2024-01-01,2024-12-31,60.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN2-cholesterolemia-190-Female-Age-35-74,Observation - Benevento % of people with high total cholesterolemia (>=190 mg/dl) (BN2 Female-Age-35-74),% of people with high total cholesterolemia (>=190 mg/dl),Loc-Benevento-02,,2024-01-01,2024-12-31,61.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN3-cholesterolemia-190-Male-Age-35-74,Observation - Benevento % of people with high total cholesterolemia (>=190 mg/dl) (BN3 Male-Age-35-74),% of people with high total cholesterolemia (>=190 mg/dl),Loc-Benevento-03,,2024-01-01,2024-12-31,63.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN3-cholesterolemia-190-Female-Age-35-74,Observation - Benevento % of people with high total cholesterolemia (>=190 mg/dl) (BN3 Female-Age-35-74),% of people with high total cholesterolemia (>=190 mg/dl),Loc-Benevento-03,,2024-01-01,2024-12-31,69.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN1-hypercholesterolemia-treatment-Male-Age-35-74,Observation - Benevento % of people under treatment for hypercholesterolemia (BN1 Male-Age-35-74),% of people under treatment for hypercholesterolemia,Loc-Benevento-01,,2024-01-01,2024-12-31,10.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN1-hypercholesterolemia-treatment-Female-Age-35-74,Observation - Benevento % of people under treatment for hypercholesterolemia (BN1 Female-Age-35-74),% of people under treatment for hypercholesterolemia,Loc-Benevento-01,,2024-01-01,2024-12-31,18.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN2-hypercholesterolemia-treatment-Male-Age-35-74,Observation - Benevento % of people under treatment for hypercholesterolemia (BN2 Male-Age-35-74),% of people under treatment for hypercholesterolemia,Loc-Benevento-02,,2024-01-01,2024-12-31,13.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN2-hypercholesterolemia-treatment-Female-Age-35-74,Observation - Benevento % of people under treatment for hypercholesterolemia (BN2 Female-Age-35-74),% of people under treatment for hypercholesterolemia,Loc-Benevento-02,,2024-01-01,2024-12-31,26.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN3-hypercholesterolemia-treatment-Male-Age-35-74,Observation - Benevento % of people under treatment for hypercholesterolemia (BN3 Male-Age-35-74),% of people under treatment for hypercholesterolemia,Loc-Benevento-03,,2024-01-01,2024-12-31,8.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN3-hypercholesterolemia-treatment-Female-Age-35-74,Observation - Benevento % of people under treatment for hypercholesterolemia (BN3 Female-Age-35-74),% of people under treatment for hypercholesterolemia,Loc-Benevento-03,,2024-01-01,2024-12-31,20.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN1-cholesterolemia-240-Male-Age-35-74,Observation - Benevento % of people with high total cholesterolemia (>=240 mg/dl) (BN1 Male-Age-35-74),% of people with high total cholesterolemia (>=240 mg/dl),Loc-Benevento-01,,2024-01-01,2024-12-31,13.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN1-cholesterolemia-240-Female-Age-35-74,Observation - Benevento % of people with high total cholesterolemia (>=240 mg/dl) (BN1 Female-Age-35-74),% of people with high total cholesterolemia (>=240 mg/dl),Loc-Benevento-01,,2024-01-01,2024-12-31,31.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN2-cholesterolemia-240-Male-Age-35-74,Observation - Benevento % of people with high total cholesterolemia (>=240 mg/dl) (BN2 Male-Age-35-74),% of people with high total cholesterolemia (>=240 mg/dl),Loc-Benevento-02,,2024-01-01,2024-12-31,17.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN2-cholesterolemia-240-Female-Age-35-74,Observation - Benevento % of people with high total cholesterolemia (>=240 mg/dl) (BN2 Female-Age-35-74),% of people with high total cholesterolemia (>=240 mg/dl),Loc-Benevento-02,,2024-01-01,2024-12-31,28.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN3-cholesterolemia-240-Male-Age-35-74,Observation - Benevento % of people with high total cholesterolemia (>=240 mg/dl) (BN3 Male-Age-35-74),% of people with high total cholesterolemia (>=240 mg/dl),Loc-Benevento-03,,2024-01-01,2024-12-31,20.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN3-cholesterolemia-240-Female-Age-35-74,Observation - Benevento % of people with high total cholesterolemia (>=240 mg/dl) (BN3 Female-Age-35-74),% of people with high total cholesterolemia (>=240 mg/dl),Loc-Benevento-03,,2024-01-01,2024-12-31,21.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN1-diabetes-Male-Age-35-74,Observation - Benevento % of people with high blood sugar/diabetes (BN1 Male-Age-35-74),% of people with high blood sugar/diabetes,Loc-Benevento-01,,2024-01-01,2024-12-31,7.4,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN1-diabetes-Female-Age-35-74,Observation - Benevento % of people with high blood sugar/diabetes (BN1 Female-Age-35-74),% of people with high blood sugar/diabetes,Loc-Benevento-01,,2024-01-01,2024-12-31,1.1,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN2-diabetes-Male-Age-35-74,Observation - Benevento % of people with high blood sugar/diabetes (BN2 Male-Age-35-74),% of people with high blood sugar/diabetes,Loc-Benevento-02,,2024-01-01,2024-12-31,8.3,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN2-diabetes-Female-Age-35-74,Observation - Benevento % of people with high blood sugar/diabetes (BN2 Female-Age-35-74),% of people with high blood sugar/diabetes,Loc-Benevento-02,,2024-01-01,2024-12-31,2.6,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN3-diabetes-Male-Age-35-74,Observation - Benevento % of people with high blood sugar/diabetes (BN3 Male-Age-35-74),% of people with high blood sugar/diabetes,Loc-Benevento-03,,2024-01-01,2024-12-31,5.9,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN3-diabetes-Female-Age-35-74,Observation - Benevento % of people with high blood sugar/diabetes (BN3 Female-Age-35-74),% of people with high blood sugar/diabetes,Loc-Benevento-03,,2024-01-01,2024-12-31,2.9,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN1-diabetes-treatment-Male-Age-35-74,Observation - Benevento % of people under treatment for diabetes (BN1 Male-Age-35-74),% of people under treatment for diabetes,Loc-Benevento-01,,2024-01-01,2024-12-31,1.4,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN1-diabetes-treatment-Female-Age-35-74,Observation - Benevento % of people under treatment for diabetes (BN1 Female-Age-35-74),% of people under treatment for diabetes,Loc-Benevento-01,,2024-01-01,2024-12-31,1.2,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN2-diabetes-treatment-Male-Age-35-74,Observation - Benevento % of people under treatment for diabetes (BN2 Male-Age-35-74),% of people under treatment for diabetes,Loc-Benevento-02,,2024-01-01,2024-12-31,2.8,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN2-diabetes-treatment-Female-Age-35-74,Observation - Benevento % of people under treatment for diabetes (BN2 Female-Age-35-74),% of people under treatment for diabetes,Loc-Benevento-02,,2024-01-01,2024-12-31,0.7,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN3-diabetes-treatment-Male-Age-35-74,Observation - Benevento % of people under treatment for diabetes (BN3 Male-Age-35-74),% of people under treatment for diabetes,Loc-Benevento-03,,2024-01-01,2024-12-31,4.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN3-diabetes-treatment-Female-Age-35-74,Observation - Benevento % of people under treatment for diabetes (BN3 Female-Age-35-74),% of people under treatment for diabetes,Loc-Benevento-03,,2024-01-01,2024-12-31,0.8,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN1-cvd-Male-Age-35-74,Observation - Benevento % of people affected from CVD (BN1 Male-Age-35-74),% of people affected from CVD,Loc-Benevento-01,,2024-01-01,2024-12-31,8.4,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN1-cvd-Female-Age-35-74,Observation - Benevento % of people affected from CVD (BN1 Female-Age-35-74),% of people affected from CVD,Loc-Benevento-01,,2024-01-01,2024-12-31,2.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN2-cvd-Male-Age-35-74,Observation - Benevento % of people affected from CVD (BN2 Male-Age-35-74),% of people affected from CVD,Loc-Benevento-02,,2024-01-01,2024-12-31,6.0,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN2-cvd-Female-Age-35-74,Observation - Benevento % of people affected from CVD (BN2 Female-Age-35-74),% of people affected from CVD,Loc-Benevento-02,,2024-01-01,2024-12-31,2.2,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN3-cvd-Male-Age-35-74,Observation - Benevento % of people affected from CVD (BN3 Male-Age-35-74),% of people affected from CVD,Loc-Benevento-03,,2024-01-01,2024-12-31,7.1,%,,,bn_disease_prevalence_observations.fsh
+Obs-BN-BN3-cvd-Female-Age-35-74,Observation - Benevento % of people affected from CVD (BN3 Female-Age-35-74),% of people affected from CVD,Loc-Benevento-03,,2024-01-01,2024-12-31,1.5,%,,,bn_disease_prevalence_observations.fsh
+Obs-EC-Giofyros-2024-11-21,Observation - Giofyros electrical conductivity (2024-11-21),Conductivity,Loc-Giofyros,2024-11-21,,,2.2,mS/cm,,,ec_tmp.fsh
+Obs-EC-Giofyros-2025-04-14,Observation - Giofyros electrical conductivity (2025-04-14),Conductivity,Loc-Giofyros,2025-04-14,,,2.26,mS/cm,,,ec_tmp.fsh
+Obs-EC-Almyros-2024-11-21,Observation - Almyros electrical conductivity (2024-11-21),Conductivity,Loc-Almyros,2024-11-21,,,18.4,mS/cm,,,ec_tmp.fsh
+Obs-EC-Almyros-2025-04-14,Observation - Almyros electrical conductivity (2025-04-14),Conductivity,Loc-Almyros,2025-04-14,,,12.2,mS/cm,,,ec_tmp.fsh
+Obs-OS-long-term-disease-Male,Observation - Oslo % of people with long-term disease (Male),% of people with long-term disease,Loc-Nordre-Aker,,2024-01-01,2024-12-31,40.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-long-term-disease-Female,Observation - Oslo % of people with long-term disease (Female),% of people with long-term disease,Loc-Nordre-Aker,,2024-01-01,2024-12-31,43.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-long-term-disease-All,Observation - Oslo % of people with long-term disease (All),% of people with long-term disease,Loc-Nordre-Aker,,2024-01-01,2024-12-31,42.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-long-term-disease-Age-18-29,Observation - Oslo % of people with long-term disease (Age-18-29),% of people with long-term disease,Loc-Nordre-Aker,,2024-01-01,2024-12-31,40.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-long-term-disease-Age-30-39,Observation - Oslo % of people with long-term disease (Age-30-39),% of people with long-term disease,Loc-Nordre-Aker,,2024-01-01,2024-12-31,32.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-long-term-disease-Age-40-49,Observation - Oslo % of people with long-term disease (Age-40-49),% of people with long-term disease,Loc-Nordre-Aker,,2024-01-01,2024-12-31,42.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-long-term-disease-Age-50-59,Observation - Oslo % of people with long-term disease (Age-50-59),% of people with long-term disease,Loc-Nordre-Aker,,2024-01-01,2024-12-31,43.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-long-term-disease-Age-60-69,Observation - Oslo % of people with long-term disease (Age-60-69),% of people with long-term disease,Loc-Nordre-Aker,,2024-01-01,2024-12-31,48.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-long-term-disease-Age-70-plus,Observation - Oslo % of people with long-term disease (Age-70-plus),% of people with long-term disease,Loc-Nordre-Aker,,2024-01-01,2024-12-31,58.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-no-long-term-disease-Male,Observation - Oslo % of people without long-term disease (Male),% of people without long-term disease,Loc-Nordre-Aker,,2024-01-01,2024-12-31,60.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-no-long-term-disease-Female,Observation - Oslo % of people without long-term disease (Female),% of people without long-term disease,Loc-Nordre-Aker,,2024-01-01,2024-12-31,57.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-no-long-term-disease-All,Observation - Oslo % of people without long-term disease (All),% of people without long-term disease,Loc-Nordre-Aker,,2024-01-01,2024-12-31,58.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-no-long-term-disease-Age-18-29,Observation - Oslo % of people without long-term disease (Age-18-29),% of people without long-term disease,Loc-Nordre-Aker,,2024-01-01,2024-12-31,60.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-no-long-term-disease-Age-30-39,Observation - Oslo % of people without long-term disease (Age-30-39),% of people without long-term disease,Loc-Nordre-Aker,,2024-01-01,2024-12-31,68.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-no-long-term-disease-Age-40-49,Observation - Oslo % of people without long-term disease (Age-40-49),% of people without long-term disease,Loc-Nordre-Aker,,2024-01-01,2024-12-31,58.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-no-long-term-disease-Age-50-59,Observation - Oslo % of people without long-term disease (Age-50-59),% of people without long-term disease,Loc-Nordre-Aker,,2024-01-01,2024-12-31,57.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-no-long-term-disease-Age-60-69,Observation - Oslo % of people without long-term disease (Age-60-69),% of people without long-term disease,Loc-Nordre-Aker,,2024-01-01,2024-12-31,52.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-no-long-term-disease-Age-70-plus,Observation - Oslo % of people without long-term disease (Age-70-plus),% of people without long-term disease,Loc-Nordre-Aker,,2024-01-01,2024-12-31,42.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-below-18-Male,"Observation - Oslo % of people with BMI <18,5 (Male)","% of people with BMI <18,5",Loc-Nordre-Aker,,2024-01-01,2024-12-31,1.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-below-18-Female,"Observation - Oslo % of people with BMI <18,5 (Female)","% of people with BMI <18,5",Loc-Nordre-Aker,,2024-01-01,2024-12-31,3.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-below-18-All,"Observation - Oslo % of people with BMI <18,5 (All)","% of people with BMI <18,5",Loc-Nordre-Aker,,2024-01-01,2024-12-31,2.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-below-18-Age-18-29,"Observation - Oslo % of people with BMI <18,5 (Age-18-29)","% of people with BMI <18,5",Loc-Nordre-Aker,,2024-01-01,2024-12-31,6.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-below-18-Age-30-39,"Observation - Oslo % of people with BMI <18,5 (Age-30-39)","% of people with BMI <18,5",Loc-Nordre-Aker,,2024-01-01,2024-12-31,4.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-below-18-Age-40-49,"Observation - Oslo % of people with BMI <18,5 (Age-40-49)","% of people with BMI <18,5",Loc-Nordre-Aker,,2024-01-01,2024-12-31,2.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-below-18-Age-50-59,"Observation - Oslo % of people with BMI <18,5 (Age-50-59)","% of people with BMI <18,5",Loc-Nordre-Aker,,2024-01-01,2024-12-31,1.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-below-18-Age-60-69,"Observation - Oslo % of people with BMI <18,5 (Age-60-69)","% of people with BMI <18,5",Loc-Nordre-Aker,,2024-01-01,2024-12-31,2.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-below-18-Age-70-plus,"Observation - Oslo % of people with BMI <18,5 (Age-70-plus)","% of people with BMI <18,5",Loc-Nordre-Aker,,2024-01-01,2024-12-31,5.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-below-25-Male,"Observation - Oslo % of people with BMI 18,5-24,9 (Male)","% of people with BMI 18,5-24,9",Loc-Nordre-Aker,,2024-01-01,2024-12-31,50.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-below-25-Female,"Observation - Oslo % of people with BMI 18,5-24,9 (Female)","% of people with BMI 18,5-24,9",Loc-Nordre-Aker,,2024-01-01,2024-12-31,64.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-below-25-All,"Observation - Oslo % of people with BMI 18,5-24,9 (All)","% of people with BMI 18,5-24,9",Loc-Nordre-Aker,,2024-01-01,2024-12-31,57.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-below-25-Age-18-29,"Observation - Oslo % of people with BMI 18,5-24,9 (Age-18-29)","% of people with BMI 18,5-24,9",Loc-Nordre-Aker,,2024-01-01,2024-12-31,70.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-below-25-Age-30-39,"Observation - Oslo % of people with BMI 18,5-24,9 (Age-30-39)","% of people with BMI 18,5-24,9",Loc-Nordre-Aker,,2024-01-01,2024-12-31,67.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-below-25-Age-40-49,"Observation - Oslo % of people with BMI 18,5-24,9 (Age-40-49)","% of people with BMI 18,5-24,9",Loc-Nordre-Aker,,2024-01-01,2024-12-31,69.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-below-25-Age-50-59,"Observation - Oslo % of people with BMI 18,5-24,9 (Age-50-59)","% of people with BMI 18,5-24,9",Loc-Nordre-Aker,,2024-01-01,2024-12-31,61.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-below-25-Age-60-69,"Observation - Oslo % of people with BMI 18,5-24,9 (Age-60-69)","% of people with BMI 18,5-24,9",Loc-Nordre-Aker,,2024-01-01,2024-12-31,63.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-below-25-Age-70-plus,"Observation - Oslo % of people with BMI 18,5-24,9 (Age-70-plus)","% of people with BMI 18,5-24,9",Loc-Nordre-Aker,,2024-01-01,2024-12-31,56.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-below-30-Male,"Observation - Oslo % of people with BMI 25-29,9 (Male)","% of people with BMI 25-29,9",Loc-Nordre-Aker,,2024-01-01,2024-12-31,38.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-below-30-Female,"Observation - Oslo % of people with BMI 25-29,9 (Female)","% of people with BMI 25-29,9",Loc-Nordre-Aker,,2024-01-01,2024-12-31,25.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-below-30-All,"Observation - Oslo % of people with BMI 25-29,9 (All)","% of people with BMI 25-29,9",Loc-Nordre-Aker,,2024-01-01,2024-12-31,31.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-below-30-Age-18-29,"Observation - Oslo % of people with BMI 25-29,9 (Age-18-29)","% of people with BMI 25-29,9",Loc-Nordre-Aker,,2024-01-01,2024-12-31,21.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-below-30-Age-30-39,"Observation - Oslo % of people with BMI 25-29,9 (Age-30-39)","% of people with BMI 25-29,9",Loc-Nordre-Aker,,2024-01-01,2024-12-31,21.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-below-30-Age-40-49,"Observation - Oslo % of people with BMI 25-29,9 (Age-40-49)","% of people with BMI 25-29,9",Loc-Nordre-Aker,,2024-01-01,2024-12-31,22.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-below-30-Age-50-59,"Observation - Oslo % of people with BMI 25-29,9 (Age-50-59)","% of people with BMI 25-29,9",Loc-Nordre-Aker,,2024-01-01,2024-12-31,28.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-below-30-Age-60-69,"Observation - Oslo % of people with BMI 25-29,9 (Age-60-69)","% of people with BMI 25-29,9",Loc-Nordre-Aker,,2024-01-01,2024-12-31,25.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-below-30-Age-70-plus,"Observation - Oslo % of people with BMI 25-29,9 (Age-70-plus)","% of people with BMI 25-29,9",Loc-Nordre-Aker,,2024-01-01,2024-12-31,31.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-above-30-Male,Observation - Oslo % of people with BMI =>30 (Male),% of people with BMI =>30,Loc-Nordre-Aker,,2024-01-01,2024-12-31,12.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-above-30-Female,Observation - Oslo % of people with BMI =>30 (Female),% of people with BMI =>30,Loc-Nordre-Aker,,2024-01-01,2024-12-31,8.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-above-30-All,Observation - Oslo % of people with BMI =>30 (All),% of people with BMI =>30,Loc-Nordre-Aker,,2024-01-01,2024-12-31,10.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-above-30-Age-18-29,Observation - Oslo % of people with BMI =>30 (Age-18-29),% of people with BMI =>30,Loc-Nordre-Aker,,2024-01-01,2024-12-31,3.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-above-30-Age-30-39,Observation - Oslo % of people with BMI =>30 (Age-30-39),% of people with BMI =>30,Loc-Nordre-Aker,,2024-01-01,2024-12-31,7.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-above-30-Age-40-49,Observation - Oslo % of people with BMI =>30 (Age-40-49),% of people with BMI =>30,Loc-Nordre-Aker,,2024-01-01,2024-12-31,7.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-above-30-Age-50-59,Observation - Oslo % of people with BMI =>30 (Age-50-59),% of people with BMI =>30,Loc-Nordre-Aker,,2024-01-01,2024-12-31,10.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-above-30-Age-60-69,Observation - Oslo % of people with BMI =>30 (Age-60-69),% of people with BMI =>30,Loc-Nordre-Aker,,2024-01-01,2024-12-31,9.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-bmi-above-30-Age-70-plus,Observation - Oslo % of people with BMI =>30 (Age-70-plus),% of people with BMI =>30,Loc-Nordre-Aker,,2024-01-01,2024-12-31,8.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-diabate-copd-cvd-Male,"Observation - Oslo % of people that have or have had Diabetes, COPD or Cardiovascular disease (Male)","% of people that have or have had Diabetes, COPD or Cardiovascular disease",Loc-Nordre-Aker,,2024-01-01,2024-12-31,14.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-diabate-copd-cvd-Female,"Observation - Oslo % of people that have or have had Diabetes, COPD or Cardiovascular disease (Female)","% of people that have or have had Diabetes, COPD or Cardiovascular disease",Loc-Nordre-Aker,,2024-01-01,2024-12-31,8.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-diabate-copd-cvd-All,"Observation - Oslo % of people that have or have had Diabetes, COPD or Cardiovascular disease (All)","% of people that have or have had Diabetes, COPD or Cardiovascular disease",Loc-Nordre-Aker,,2024-01-01,2024-12-31,11.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-diabate-copd-cvd-Age-18-29,"Observation - Oslo % of people that have or have had Diabetes, COPD or Cardiovascular disease (Age-18-29)","% of people that have or have had Diabetes, COPD or Cardiovascular disease",Loc-Nordre-Aker,,2024-01-01,2024-12-31,3.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-diabate-copd-cvd-Age-30-39,"Observation - Oslo % of people that have or have had Diabetes, COPD or Cardiovascular disease (Age-30-39)","% of people that have or have had Diabetes, COPD or Cardiovascular disease",Loc-Nordre-Aker,,2024-01-01,2024-12-31,2.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-diabate-copd-cvd-Age-40-49,"Observation - Oslo % of people that have or have had Diabetes, COPD or Cardiovascular disease (Age-40-49)","% of people that have or have had Diabetes, COPD or Cardiovascular disease",Loc-Nordre-Aker,,2024-01-01,2024-12-31,2.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-diabate-copd-cvd-Age-50-59,"Observation - Oslo % of people that have or have had Diabetes, COPD or Cardiovascular disease (Age-50-59)","% of people that have or have had Diabetes, COPD or Cardiovascular disease",Loc-Nordre-Aker,,2024-01-01,2024-12-31,7.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-diabate-copd-cvd-Age-60-69,"Observation - Oslo % of people that have or have had Diabetes, COPD or Cardiovascular disease (Age-60-69)","% of people that have or have had Diabetes, COPD or Cardiovascular disease",Loc-Nordre-Aker,,2024-01-01,2024-12-31,13.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-diabate-copd-cvd-Age-70-plus,"Observation - Oslo % of people that have or have had Diabetes, COPD or Cardiovascular disease (Age-70-plus)","% of people that have or have had Diabetes, COPD or Cardiovascular disease",Loc-Nordre-Aker,,2024-01-01,2024-12-31,24.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-no-diabate-copd-cvd-Male,"Observation - Oslo % of people that do not have Diabetes, COPD or Cardiovascular disease (Male)","% of people that do not have Diabetes, COPD or Cardiovascular disease",Loc-Nordre-Aker,,2024-01-01,2024-12-31,86.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-no-diabate-copd-cvd-Female,"Observation - Oslo % of people that do not have Diabetes, COPD or Cardiovascular disease (Female)","% of people that do not have Diabetes, COPD or Cardiovascular disease",Loc-Nordre-Aker,,2024-01-01,2024-12-31,92.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-no-diabate-copd-cvd-All,"Observation - Oslo % of people that do not have Diabetes, COPD or Cardiovascular disease (All)","% of people that do not have Diabetes, COPD or Cardiovascular disease",Loc-Nordre-Aker,,2024-01-01,2024-12-31,89.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-no-diabate-copd-cvd-Age-18-29,"Observation - Oslo % of people that do not have Diabetes, COPD or Cardiovascular disease (Age-18-29)","% of people that do not have Diabetes, COPD or Cardiovascular disease",Loc-Nordre-Aker,,2024-01-01,2024-12-31,97.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-no-diabate-copd-cvd-Age-30-39,"Observation - Oslo % of people that do not have Diabetes, COPD or Cardiovascular disease (Age-30-39)","% of people that do not have Diabetes, COPD or Cardiovascular disease",Loc-Nordre-Aker,,2024-01-01,2024-12-31,98.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-no-diabate-copd-cvd-Age-40-49,"Observation - Oslo % of people that do not have Diabetes, COPD or Cardiovascular disease (Age-40-49)","% of people that do not have Diabetes, COPD or Cardiovascular disease",Loc-Nordre-Aker,,2024-01-01,2024-12-31,98.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-no-diabate-copd-cvd-Age-50-59,"Observation - Oslo % of people that do not have Diabetes, COPD or Cardiovascular disease (Age-50-59)","% of people that do not have Diabetes, COPD or Cardiovascular disease",Loc-Nordre-Aker,,2024-01-01,2024-12-31,93.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-no-diabate-copd-cvd-Age-60-69,"Observation - Oslo % of people that do not have Diabetes, COPD or Cardiovascular disease (Age-60-69)","% of people that do not have Diabetes, COPD or Cardiovascular disease",Loc-Nordre-Aker,,2024-01-01,2024-12-31,87.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-no-diabate-copd-cvd-Age-70-plus,"Observation - Oslo % of people that do not have Diabetes, COPD or Cardiovascular disease (Age-70-plus)","% of people that do not have Diabetes, COPD or Cardiovascular disease",Loc-Nordre-Aker,,2024-01-01,2024-12-31,76.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-mental-health-Male,Observation - Oslo % of people experience with mental health issues (Male),% of people experience with mental health issues,Loc-Nordre-Aker,,2024-01-01,2024-12-31,17.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-mental-health-Female,Observation - Oslo % of people experience with mental health issues (Female),% of people experience with mental health issues,Loc-Nordre-Aker,,2024-01-01,2024-12-31,20.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-mental-health-All,Observation - Oslo % of people experience with mental health issues (All),% of people experience with mental health issues,Loc-Nordre-Aker,,2024-01-01,2024-12-31,19.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-mental-health-Age-18-29,Observation - Oslo % of people experience with mental health issues (Age-18-29),% of people experience with mental health issues,Loc-Nordre-Aker,,2024-01-01,2024-12-31,40.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-mental-health-Age-30-39,Observation - Oslo % of people experience with mental health issues (Age-30-39),% of people experience with mental health issues,Loc-Nordre-Aker,,2024-01-01,2024-12-31,31.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-mental-health-Age-40-49,Observation - Oslo % of people experience with mental health issues (Age-40-49),% of people experience with mental health issues,Loc-Nordre-Aker,,2024-01-01,2024-12-31,21.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-mental-health-Age-50-59,Observation - Oslo % of people experience with mental health issues (Age-50-59),% of people experience with mental health issues,Loc-Nordre-Aker,,2024-01-01,2024-12-31,12.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-mental-health-Age-60-69,Observation - Oslo % of people experience with mental health issues (Age-60-69),% of people experience with mental health issues,Loc-Nordre-Aker,,2024-01-01,2024-12-31,8.0,%,,,os_disease_prevalence_observations.fsh
+Obs-OS-mental-health-Age-70-plus,Observation - Oslo % of people experience with mental health issues (Age-70-plus),% of people experience with mental health issues,Loc-Nordre-Aker,,2024-01-01,2024-12-31,9.0,%,,,os_disease_prevalence_observations.fsh
+Obs-WaterTemp-Giofyros-2024-11-21,Observation - Giofyros water temperature (2024-11-21),Water temperature,Loc-Giofyros,2024-11-21,,,18.6,Cel,,,water_tmp.fsh
+Obs-WaterTemp-Giofyros-2025-04-14,Observation - Giofyros water temperature (2025-04-14),Water temperature,Loc-Giofyros,2025-04-14,,,19.0,Cel,,,water_tmp.fsh
+Obs-WaterTemp-GiofyrosLower-2024-11-21,Observation - Giofyros lower reach temperature (2024-11-21),Water temperature,Loc-Giofyros-LowerReach,2024-11-21,,,18.3,Cel,,,water_tmp.fsh
+Obs-WaterTemp-GiofyrosLower-2025-04-14,Observation - Giofyros lower reach temperature (2025-04-14),Water temperature,Loc-Giofyros-LowerReach,2025-04-14,,,18.8,Cel,,,water_tmp.fsh
+Obs-WaterTemp-Almyros-2024-11-21,Observation - Almyros water temperature (2024-11-21),Water temperature,Loc-Almyros,2024-11-21,,,16.1,Cel,,,water_tmp.fsh
+Obs-WaterTemp-Almyros-2025-04-14,Observation - Almyros water temperature (2025-04-14),Water temperature,Loc-Almyros,2025-04-14,,,16.2,Cel,,,water_tmp.fsh

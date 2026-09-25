@@ -1,0 +1,282 @@
+[
+  {
+    "code": "C1",
+    "name": "Explorat\u00f3rio",
+    "city": {
+      "id": "CO",
+      "name": "Coimbra",
+      "longitude": -8.4103,
+      "latitude": 40.2033
+    },
+    "polygon": null,
+    "latitude": 40.19787,
+    "longitude": -8.42865,
+    "altitude": 20.0
+  },
+  {
+    "code": "C2",
+    "name": "Esta\u00e7\u00e3o Cbr-B",
+    "city": {
+      "id": "CO",
+      "name": "Coimbra",
+      "longitude": -8.4103,
+      "latitude": 40.2033
+    },
+    "polygon": null,
+    "latitude": 40.22483,
+    "longitude": -8.44135,
+    "altitude": 14.0
+  },
+  {
+    "code": "C3",
+    "name": "Vale das Flores",
+    "city": {
+      "id": "CO",
+      "name": "Coimbra",
+      "longitude": -8.4103,
+      "latitude": 40.2033
+    },
+    "polygon": null,
+    "latitude": 40.19307,
+    "longitude": -8.41945,
+    "altitude": 22.0
+  },
+  {
+    "code": "C4",
+    "name": "Eiras",
+    "city": {
+      "id": "CO",
+      "name": "Coimbra",
+      "longitude": -8.4103,
+      "latitude": 40.2033
+    },
+    "polygon": null,
+    "latitude": 40.25289,
+    "longitude": -8.43659,
+    "altitude": 17.0
+  },
+  {
+    "code": "C5",
+    "name": "Mina Hospital",
+    "city": {
+      "id": "CO",
+      "name": "Coimbra",
+      "longitude": -8.4103,
+      "latitude": 40.2033
+    },
+    "polygon": null,
+    "latitude": 40.2186,
+    "longitude": -8.42733,
+    "altitude": 27.0
+  },
+  {
+    "code": "C6",
+    "name": "Casa do Sal",
+    "city": {
+      "id": "CO",
+      "name": "Coimbra",
+      "longitude": -8.4103,
+      "latitude": 40.2033
+    },
+    "polygon": null,
+    "latitude": 40.21942,
+    "longitude": -8.43772,
+    "altitude": 16.0
+  },
+  {
+    "code": "C7",
+    "name": "S\u00e3o Rom\u00e3o",
+    "city": {
+      "id": "CO",
+      "name": "Coimbra",
+      "longitude": -8.4103,
+      "latitude": 40.2033
+    },
+    "polygon": null,
+    "latitude": 40.22243,
+    "longitude": -8.40165,
+    "altitude": 53.0
+  },
+  {
+    "code": "C8",
+    "name": "Cov\u00f5es",
+    "city": {
+      "id": "CO",
+      "name": "Coimbra",
+      "longitude": -8.4103,
+      "latitude": 40.2033
+    },
+    "polygon": null,
+    "latitude": 40.19133,
+    "longitude": -8.46002,
+    "altitude": 77.0
+  },
+  {
+    "code": "C9",
+    "name": "Fornos",
+    "city": {
+      "id": "CO",
+      "name": "Coimbra",
+      "longitude": -8.4103,
+      "latitude": 40.2033
+    },
+    "polygon": null,
+    "latitude": 40.27702,
+    "longitude": -8.4272,
+    "altitude": 19.0
+  },
+  {
+    "code": "C10",
+    "name": "Arrega\u00e7a",
+    "city": {
+      "id": "CO",
+      "name": "Coimbra",
+      "longitude": -8.4103,
+      "latitude": 40.2033
+    },
+    "polygon": null,
+    "latitude": 40.19776,
+    "longitude": -8.41773,
+    "altitude": 23.0
+  },
+  {
+    "code": "C11",
+    "name": "Bairro S\u00e3o Miguel",
+    "city": {
+      "id": "CO",
+      "name": "Coimbra",
+      "longitude": -8.4103,
+      "latitude": 40.2033
+    },
+    "polygon": null,
+    "latitude": 40.22752,
+    "longitude": -8.43757,
+    "altitude": 20.0
+  },
+  {
+    "code": "C12",
+    "name": "Escola Agr\u00e1ria",
+    "city": {
+      "id": "CO",
+      "name": "Coimbra",
+      "longitude": -8.4103,
+      "latitude": 40.2033
+    },
+    "polygon": null,
+    "latitude": 40.20386,
+    "longitude": -8.45302,
+    "altitude": 42.0
+  },
+  {
+    "code": "C13",
+    "name": "Condeixa",
+    "city": {
+      "id": "CO",
+      "name": "Coimbra",
+      "longitude": -8.4103,
+      "latitude": 40.2033
+    },
+    "polygon": null,
+    "latitude": 40.11106,
+    "longitude": -8.49052,
+    "altitude": 106.0
+  },
+  {
+    "code": "C14",
+    "name": "Antanhol",
+    "city": {
+      "id": "CO",
+      "name": "Coimbra",
+      "longitude": -8.4103,
+      "latitude": 40.2033
+    },
+    "polygon": null,
+    "latitude": 40.16719,
+    "longitude": -8.47817,
+    "altitude": 68.0
+  },
+  {
+    "code": "C15",
+    "name": "Copeira",
+    "city": {
+      "id": "CO",
+      "name": "Coimbra",
+      "longitude": -8.4103,
+      "latitude": 40.2033
+    },
+    "polygon": null,
+    "latitude": 40.17943,
+    "longitude": -8.42117,
+    "altitude": 25.0
+  },
+  {
+    "code": "C16",
+    "name": "Rio Velho",
+    "city": {
+      "id": "CO",
+      "name": "Coimbra",
+      "longitude": -8.4103,
+      "latitude": 40.2033
+    },
+    "polygon": null,
+    "latitude": 40.22461,
+    "longitude": -8.44304,
+    "altitude": 15.0
+  },
+  {
+    "code": "C17",
+    "name": "Conraria",
+    "city": {
+      "id": "CO",
+      "name": "Coimbra",
+      "longitude": -8.4103,
+      "latitude": 40.2033
+    },
+    "polygon": null,
+    "latitude": 40.17422,
+    "longitude": -8.39363,
+    "altitude": 27.0
+  },
+  {
+    "code": "C18",
+    "name": "Ponte da Espertina",
+    "city": {
+      "id": "CO",
+      "name": "Coimbra",
+      "longitude": -8.4103,
+      "latitude": 40.2033
+    },
+    "polygon": null,
+    "latitude": 40.25621,
+    "longitude": -8.45312,
+    "altitude": 14.0
+  },
+  {
+    "code": "C19",
+    "name": "Escravote",
+    "city": {
+      "id": "CO",
+      "name": "Coimbra",
+      "longitude": -8.4103,
+      "latitude": 40.2033
+    },
+    "polygon": null,
+    "latitude": 40.24812,
+    "longitude": -8.41159,
+    "altitude": 42.0
+  },
+  {
+    "code": "C20",
+    "name": "Corujeira",
+    "city": {
+      "id": "CO",
+      "name": "Coimbra",
+      "longitude": -8.4103,
+      "latitude": 40.2033
+    },
+    "polygon": null,
+    "latitude": 40.21085,
+    "longitude": -8.47667,
+    "altitude": 14.0
+  }
+]

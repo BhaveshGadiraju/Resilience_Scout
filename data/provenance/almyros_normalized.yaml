@@ -1,0 +1,18 @@
+source: Almyros OAH FHIR FSH examples (normalized long-format)
+source_url: https://github.com/hl7-eu/oah/tree/master/input/fsh/examples
+retrieval_date: '2026-09-24'
+original_filename_or_api: almyros_gov_chem.fsh, water_tmp.fsh, ec_tmp.fsh
+license: Derived from OAH FHIR IG source examples; same upstream terms.
+data_class: derived
+processing_steps:
+- Parsed FHIR Shorthand Observation instances from data/raw (read-only)
+- Filtered subject Loc-Almyros
+- Expanded each annual component (mean/median/min/max/std_dev) and point valueQuantity
+  into long rows
+- Mapped indicator aliases to canonical indicator_id
+- Applied verified unit conversion mS/cm→uS/cm (×1000) for conductivity only
+- Flagged scale_anomaly when |mean|/median ≥ 10; never rescaled source values
+preserves_original_values: true
+notes: transform_version=2a.1; provenance_dataset_id=almyros_normalized_v1. value_original/unit_original
+  are literal FSH values. Phase 1 inventory CSV is incomplete for multi-statistic
+  analysis — use this table instead. No interpolation of missing years or statistics.

@@ -1,0 +1,14 @@
+source: OneAquaHealth HL7 FHIR IG source examples (GitHub hl7-eu/oah FSH)
+source_url: https://github.com/hl7-eu/oah/tree/master/input/fsh/examples
+retrieval_date: '2026-09-24'
+original_filename_or_api: https://raw.githubusercontent.com/hl7-eu/oah/master/input/fsh/examples/*
+license: FHIR IG source published by OneAquaHealth Project / HL7 EU; see project site
+  for terms. Example resources — not a live surveillance API.
+data_class: observed
+processing_steps:
+- Attempted build.fhir.org IG downloads (HTTP 404 on 2026-09-25)
+- Downloaded unmodified FHIR Shorthand (.fsh) example files from GitHub master branch
+preserves_original_values: true
+notes: Canonical published HTML/JSON IG was unavailable (404). FSH examples are the
+  authoring source for Almyros/Giofyros/Benevento/Oslo artifacts previously documented
+  on the CI build.

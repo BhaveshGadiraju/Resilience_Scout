@@ -1,0 +1,204 @@
+{
+  "retrieval_date": "2026-09-24",
+  "base": "https://api.enora-oah.eu",
+  "endpoints": {
+    "/api/cities/all": {
+      "url": "https://api.enora-oah.eu/api/cities/all",
+      "status": 200,
+      "content_type": "application/json",
+      "bytes": 357,
+      "ok_json": true,
+      "saved_as": "api__cities__all.json",
+      "list_len": 5,
+      "keys": [
+        "id",
+        "latitude",
+        "longitude",
+        "name"
+      ]
+    },
+    "/api/sites/all": {
+      "url": "https://api.enora-oah.eu/api/sites/all",
+      "status": 200,
+      "content_type": "application/json",
+      "bytes": 128541,
+      "ok_json": true,
+      "saved_as": "api__sites__all.json",
+      "list_len": 106,
+      "keys": [
+        "altitude",
+        "city",
+        "code",
+        "latitude",
+        "longitude",
+        "name",
+        "polygon"
+      ]
+    },
+    "/api/resilience-map/health-risks": {
+      "url": "https://api.enora-oah.eu/api/resilience-map/health-risks",
+      "status": 200,
+      "content_type": "application/json",
+      "bytes": 16576,
+      "ok_json": true,
+      "saved_as": "api__resilience-map__health-risks.json",
+      "list_len": 96,
+      "keys": [
+        "healthRiskScore",
+        "id",
+        "researchSiteCode",
+        "samplingDate",
+        "scaledArgRisk",
+        "scaledFecalRisk",
+        "scaledPathogenRisk"
+      ]
+    },
+    "/api/resilience-map/urban-parameters": {
+      "url": "https://api.enora-oah.eu/api/resilience-map/urban-parameters",
+      "status": 200,
+      "content_type": "application/json",
+      "bytes": 149435,
+      "ok_json": true,
+      "saved_as": "api__resilience-map__urban-parameters.json",
+      "list_len": 104,
+      "keys": [
+        "distChampCulture",
+        "distanceToHospitals",
+        "distanceToLivingStreetRoad",
+        "distanceToMotorwayRoad",
+        "distanceToSewageStations",
+        "humanDensityProxy1000m",
+        "humanDensityProxy100m",
+        "humanDensityProxy1500m",
+        "humanDensityProxy2000m",
+        "humanDensityProxy250m",
+        "humanDensityProxy500m",
+        "humanDensityProxy50m",
+        "humanDensityProxy750m",
+        "id",
+        "imperviousPct1000m",
+        "imperviousPct100m",
+        "imperviousPct1500m",
+        "imperviousPct2000m",
+        "imperviousPct250m",
+        "imperviousPct500m",
+        "imperviousPct50m",
+        "imperviousPct750m",
+        "patchDensity1000m",
+        "patchDensity100m",
+        "patchDensity1500m",
+        "patchDensity2000m",
+        "patchDensity250m",
+        "patchDensity500m",
+        "patchDensity50m",
+        "patchDensity750m",
+        "patchDensityVeg1000m",
+        "patchDensityVeg100m",
+        "patchDensityVeg1500m",
+        "patchDensityVeg2000m",
+        "patchDensityVeg250m",
+        "patchDensityVeg500m",
+        "patchDensityVeg50m",
+        "patchDensityVeg750m",
+        "researchSiteCode",
+        "samplingDate",
+        "urbanPct1000m",
+        "urbanPct100m",
+        "urbanPct1500m",
+        "urbanPct2000m",
+        "urbanPct250m",
+        "urbanPct500m",
+        "urbanPct50m",
+        "urbanPct750m",
+        "vegCoverFrac1000m",
+        "vegCoverFrac100m",
+        "vegCoverFrac1500m",
+        "vegCoverFrac2000m",
+        "vegCoverFrac250m",
+        "vegCoverFrac500m",
+        "vegCoverFrac50m",
+        "vegCoverFrac750m"
+      ]
+    },
+    "/api/resilience-map/weather": {
+      "url": "https://api.enora-oah.eu/api/resilience-map/weather",
+      "status": 400,
+      "content_type": "application/json",
+      "bytes": 175,
+      "ok_json": false,
+      "sample": "{\"timestamp\":\"2026-09-25T03:02:57.798+00:00\",\"status\":400,\"error\":\"Bad Request\",\"message\":\"Required parameter 'siteCode' is not present.\",\"path\":\"/api/resilience-map/weather\"}"
+    },
+    "/api/resilience-map/earth-observation": {
+      "url": "https://api.enora-oah.eu/api/resilience-map/earth-observation",
+      "status": 401,
+      "content_type": "",
+      "bytes": 0,
+      "ok_json": false,
+      "sample": ""
+    },
+    "/api/resilience-map/indicators": {
+      "url": "https://api.enora-oah.eu/api/resilience-map/indicators",
+      "status": 401,
+      "content_type": "",
+      "bytes": 0,
+      "ok_json": false,
+      "sample": ""
+    },
+    "/api/resilience-map/export": {
+      "url": "https://api.enora-oah.eu/api/resilience-map/export",
+      "status": 401,
+      "content_type": "",
+      "bytes": 0,
+      "ok_json": false,
+      "sample": ""
+    },
+    "/api/indicators": {
+      "url": "https://api.enora-oah.eu/api/indicators",
+      "status": 401,
+      "content_type": "",
+      "bytes": 0,
+      "ok_json": false,
+      "sample": ""
+    },
+    "/api/parameters": {
+      "url": "https://api.enora-oah.eu/api/parameters",
+      "status": 401,
+      "content_type": "",
+      "bytes": 0,
+      "ok_json": false,
+      "sample": ""
+    },
+    "/api/observations": {
+      "url": "https://api.enora-oah.eu/api/observations",
+      "status": 401,
+      "content_type": "",
+      "bytes": 0,
+      "ok_json": false,
+      "sample": ""
+    },
+    "/api/csv": {
+      "url": "https://api.enora-oah.eu/api/csv",
+      "status": 401,
+      "content_type": "",
+      "bytes": 0,
+      "ok_json": false,
+      "sample": ""
+    },
+    "/api/resilience-map/health-ecosystem": {
+      "url": "https://api.enora-oah.eu/api/resilience-map/health-ecosystem",
+      "status": 401,
+      "content_type": "",
+      "bytes": 0,
+      "ok_json": false,
+      "sample": ""
+    },
+    "/api/resilience-map/eo": {
+      "url": "https://api.enora-oah.eu/api/resilience-map/eo",
+      "status": 401,
+      "content_type": "",
+      "bytes": 0,
+      "ok_json": false,
+      "sample": ""
+    }
+  }
+}
