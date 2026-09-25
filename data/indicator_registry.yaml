@@ -1,0 +1,345 @@
+# Resilience Scout indicator registry
+# Unknown fields use null. Do not invent availability.
+
+version: "0.1.0"
+updated: "2026-09-25"
+
+indicators:
+  # --- VERIFIED observed aquatic (OAH FHIR Almyros / Giofyros) ---
+  - id: water_temperature
+    name: Water temperature
+    category: water_quality
+    unit: Cel
+    source: oah_fhir_ig_examples
+    OAH_framework_reference: "IndicatorsOah.water.waterTemperature / HAF water quality"
+    available_sites: [Loc-Almyros, Loc-Giofyros, Loc-Giofyros-LowerReach]
+    temporal_resolution: mixed_annual_summary_and_point_sample
+    observation_type: observed
+    candidate_for_next_observation: true
+    notes: "Point samples 2024-11-21 and 2025-04-14; annual Temperature (water) summaries 2013-2020 at Almyros"
+
+  - id: conductivity
+    name: Conductivity
+    category: water_quality
+    unit: mS/cm
+    source: oah_fhir_ig_examples
+    OAH_framework_reference: "IndicatorsOah.water.conductivity"
+    available_sites: [Loc-Almyros, Loc-Giofyros]
+    temporal_resolution: point_sample
+    observation_type: observed
+    candidate_for_next_observation: true
+    notes: "Handheld HI98130 readings; also Electrical conductivity annual summaries (uS/cm) at Almyros"
+
+  - id: electrical_conductivity_annual
+    name: Electrical conductivity
+    category: water_quality
+    unit: uS/cm
+    source: oah_fhir_ig_examples
+    OAH_framework_reference: "IndicatorsOah.water.conductivity"
+    available_sites: [Loc-Almyros]
+    temporal_resolution: annual_summary
+    observation_type: observed
+    candidate_for_next_observation: true
+    notes: "Government chemical annual summaries; prefer median component if avg/max/min look scaled"
+
+  - id: dissolved_oxygen
+    name: Dissolved Oxygen
+    category: water_quality
+    unit: mg/L
+    source: oah_fhir_ig_examples
+    OAH_framework_reference: "IndicatorsOah.water.dissolvedO2"
+    available_sites: [Loc-Almyros]
+    temporal_resolution: annual_summary
+    observation_type: observed
+    candidate_for_next_observation: true
+    notes: "Scale inconsistency between average and median components — flag in Phase 2"
+
+  - id: ph
+    name: pH
+    category: water_quality
+    unit: null
+    source: oah_fhir_ig_examples
+    OAH_framework_reference: "IndicatorsOah.water.pH"
+    available_sites: [Loc-Almyros]
+    temporal_resolution: annual_summary
+    observation_type: observed
+    candidate_for_next_observation: true
+    notes: null
+
+  - id: nitrate
+    name: Nitrate
+    category: water_quality
+    unit: mg/L
+    source: oah_fhir_ig_examples
+    OAH_framework_reference: "IndicatorsOah.water.nutrients"
+    available_sites: [Loc-Almyros]
+    temporal_resolution: annual_summary
+    observation_type: observed
+    candidate_for_next_observation: true
+    notes: null
+
+  - id: nitrite
+    name: Nitrite
+    category: water_quality
+    unit: mg/L
+    source: oah_fhir_ig_examples
+    OAH_framework_reference: "IndicatorsOah.water.nutrients"
+    available_sites: [Loc-Almyros]
+    temporal_resolution: annual_summary
+    observation_type: observed
+    candidate_for_next_observation: true
+    notes: null
+
+  - id: ammonium
+    name: Ammonium
+    category: water_quality
+    unit: mg/L
+    source: oah_fhir_ig_examples
+    OAH_framework_reference: "IndicatorsOah.water.nutrients"
+    available_sites: [Loc-Almyros]
+    temporal_resolution: annual_summary
+    observation_type: observed
+    candidate_for_next_observation: true
+    notes: null
+
+  - id: total_phosphates
+    name: Total phosphates
+    category: water_quality
+    unit: mg/L
+    source: oah_fhir_ig_examples
+    OAH_framework_reference: "IndicatorsOah.water.nutrients"
+    available_sites: [Loc-Almyros]
+    temporal_resolution: annual_summary
+    observation_type: observed
+    candidate_for_next_observation: true
+    notes: null
+
+  - id: chloride
+    name: Chloride
+    category: water_quality
+    unit: mg/L
+    source: oah_fhir_ig_examples
+    OAH_framework_reference: "IndicatorsOah.water / physicochemical"
+    available_sites: [Loc-Almyros]
+    temporal_resolution: annual_summary
+    observation_type: observed
+    candidate_for_next_observation: true
+    notes: null
+
+  - id: sulphate
+    name: Sulphate
+    category: water_quality
+    unit: mg/L
+    source: oah_fhir_ig_examples
+    OAH_framework_reference: "IndicatorsOah.water / physicochemical"
+    available_sites: [Loc-Almyros]
+    temporal_resolution: annual_summary
+    observation_type: observed
+    candidate_for_next_observation: true
+    notes: null
+
+  - id: metals_dissolved_suite
+    name: Dissolved metals suite (Al As Cd Cr Cu Fe Pb Mn Hg Ni Zn)
+    category: water_quality
+    unit: ug/L
+    source: oah_fhir_ig_examples
+    OAH_framework_reference: "IndicatorsOah.water (pollutants / heavy metals)"
+    available_sites: [Loc-Almyros]
+    temporal_resolution: annual_summary
+    observation_type: observed
+    candidate_for_next_observation: true
+    notes: "Individual FHIR Observations per metal/year; treat as related candidates"
+
+  # --- VERIFIED Resilience Map signals ---
+  - id: pathogen_risk_score
+    name: Scaled pathogen risk
+    category: health_ecosystem
+    unit: null
+    source: resilience_map_api
+    OAH_framework_reference: "Resilience Map Health & Ecosystem / bioRisk-related"
+    available_sites: null
+    temporal_resolution: sampling_event
+    observation_type: observed
+    candidate_for_next_observation: true
+    notes: "Field scaledPathogenRisk on /api/resilience-map/health-risks; sites are BN* codes in downloaded payload"
+
+  - id: fecal_risk_score
+    name: Scaled fecal risk
+    category: health_ecosystem
+    unit: null
+    source: resilience_map_api
+    OAH_framework_reference: "Resilience Map Health & Ecosystem"
+    available_sites: null
+    temporal_resolution: sampling_event
+    observation_type: observed
+    candidate_for_next_observation: true
+    notes: "scaledFecalRisk; 96 records 2023-05-05 to 2024-08-05"
+
+  - id: arg_risk_score
+    name: Scaled ARG risk
+    category: health_ecosystem
+    unit: null
+    source: resilience_map_api
+    OAH_framework_reference: "Resilience Map Health & Ecosystem"
+    available_sites: null
+    temporal_resolution: sampling_event
+    observation_type: observed
+    candidate_for_next_observation: true
+    notes: "scaledArgRisk"
+
+  - id: weather_air_temperature
+    name: Near-surface air temperature (daily mean)
+    category: weather
+    unit: Cel
+    source: resilience_map_api
+    OAH_framework_reference: "Resilience Map Weather section"
+    available_sites: null
+    temporal_resolution: daily
+    observation_type: observed
+    candidate_for_next_observation: true
+    notes: "t2mMeanC from /weather?siteCode=&start=&end=; verified for C1"
+
+  - id: weather_precipitation
+    name: Daily precipitation total
+    category: weather
+    unit: mm
+    source: resilience_map_api
+    OAH_framework_reference: "Resilience Map Weather section"
+    available_sites: null
+    temporal_resolution: daily
+    observation_type: observed
+    candidate_for_next_observation: true
+    notes: "precipTotalMm"
+
+  - id: urban_impervious_pct
+    name: Impervious surface percent (buffer suite)
+    category: urban
+    unit: percent
+    source: resilience_map_api
+    OAH_framework_reference: "IndicatorsOah.hydromorphological.landUse / remote built-up"
+    available_sites: null
+    temporal_resolution: site_level
+    observation_type: observed
+    candidate_for_next_observation: false
+    notes: "Slow-changing covariate; less useful as 'next observation' than water/pathogen metrics"
+
+  # --- HAF / IndicatorsOah framework definitions (no site time series verified yet) ---
+  - id: benthic_macroinvertebrates
+    name: Benthic macroinvertebrates
+    category: biological_quality
+    unit: null
+    source: oah_health_assessment_framework
+    OAH_framework_reference: "IndicatorsOah.biological.macroinvertebreates; Zenodo factsheets"
+    available_sites: null
+    temporal_resolution: null
+    observation_type: framework_definition
+    candidate_for_next_observation: true
+    notes: "UNVERIFIED site time series in public APIs — framework candidate only"
+
+  - id: diatoms
+    name: Diatoms (phytobenthos)
+    category: biological_quality
+    unit: null
+    source: oah_health_assessment_framework
+    OAH_framework_reference: "IndicatorsOah.biological.diatomes"
+    available_sites: null
+    temporal_resolution: null
+    observation_type: framework_definition
+    candidate_for_next_observation: true
+    notes: "No public Observation series verified in Phase 1"
+
+  - id: fish
+    name: Fish
+    category: biological_quality
+    unit: null
+    source: oah_health_assessment_framework
+    OAH_framework_reference: "IndicatorsOah.biological.fishes"
+    available_sites: null
+    temporal_resolution: null
+    observation_type: framework_definition
+    candidate_for_next_observation: true
+    notes: null
+
+  - id: macrophytes
+    name: Macrophytes
+    category: biological_quality
+    unit: null
+    source: oah_health_assessment_framework
+    OAH_framework_reference: "IndicatorsOah.biological.macrophytes"
+    available_sites: null
+    temporal_resolution: null
+    observation_type: framework_definition
+    candidate_for_next_observation: true
+    notes: null
+
+  - id: riparian_vegetation
+    name: Riparian vegetation
+    category: biological_quality
+    unit: null
+    source: oah_health_assessment_framework
+    OAH_framework_reference: "IndicatorsOah.biological.riparianVegetation"
+    available_sites: null
+    temporal_resolution: null
+    observation_type: framework_definition
+    candidate_for_next_observation: true
+    notes: null
+
+  - id: diptera
+    name: Diptera (mosquitoes / related)
+    category: biological_health_risk
+    unit: null
+    source: oah_health_assessment_framework
+    OAH_framework_reference: "IndicatorsOah.bioRisk.diptera"
+    available_sites: null
+    temporal_resolution: null
+    observation_type: framework_definition
+    candidate_for_next_observation: true
+    notes: "Diptera Forecasting App mentioned for hackathon — public series UNVERIFIED"
+
+  - id: birds
+    name: Birds
+    category: biological_health_risk
+    unit: null
+    source: oah_health_assessment_framework
+    OAH_framework_reference: "IndicatorsOah.bioRisk.birds"
+    available_sites: null
+    temporal_resolution: null
+    observation_type: framework_definition
+    candidate_for_next_observation: true
+    notes: null
+
+  - id: amphibians
+    name: Amphibians
+    category: biological_health_risk
+    unit: null
+    source: oah_health_assessment_framework
+    OAH_framework_reference: "IndicatorsOah.bioRisk.amphibians"
+    available_sites: null
+    temporal_resolution: null
+    observation_type: framework_definition
+    candidate_for_next_observation: true
+    notes: null
+
+  - id: coliforms
+    name: Coliforms
+    category: water_quality
+    unit: null
+    source: oah_health_assessment_framework
+    OAH_framework_reference: "IndicatorsOah.water.coliforms"
+    available_sites: null
+    temporal_resolution: null
+    observation_type: framework_definition
+    candidate_for_next_observation: true
+    notes: "Not present in Almyros FHIR examples audited"
+
+  - id: habitat_morphology
+    name: Stream morphology / habitat
+    category: hydromorphological
+    unit: null
+    source: oah_health_assessment_framework
+    OAH_framework_reference: "IndicatorsOah.hydromorphological.morphology"
+    available_sites: null
+    temporal_resolution: null
+    observation_type: framework_definition
+    candidate_for_next_observation: true
+    notes: null
