@@ -1,0 +1,17 @@
+source: Almyros normalized observations (characterization summaries)
+source_url: https://github.com/hl7-eu/oah/tree/master/input/fsh/examples
+retrieval_date: '2026-09-24'
+original_filename_or_api: almyros_normalized_v1 via data/processed/almyros/observations.csv
+license: Derived from OAH FHIR IG source examples; same upstream terms.
+data_class: derived
+processing_steps:
+- Loaded Phase 2A long-format Almyros table (read-only values)
+- Computed dataset profile, indicator/statistic/temporal coverage
+- Inventoried units; summarized scale_anomaly without rewriting values
+- Computed exploratory Spearman correlations on annual medians (min overlap 4 years)
+- Classified modeling readiness (candidate|limited|exclude) using median preference
+preserves_original_values: true
+notes: characterization_version=2b.1; input=almyros_normalized_v1 transform=2a.1.
+  Summaries are derived analytics, not new observations. Spearman table is exploratory/descriptive,
+  not causal or predictive. No risk scoring, imputation, or unit conversion in Phase
+  2B.

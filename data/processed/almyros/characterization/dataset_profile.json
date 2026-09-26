@@ -1,0 +1,73 @@
+{
+  "characterization_version": "2b.1",
+  "input_provenance_dataset_id": "almyros_normalized_v1",
+  "input_transform_version": "2a.1",
+  "row_count": 587,
+  "source_observation_count": 135,
+  "indicator_count": 28,
+  "indicators": [
+    "aluminium_dissolved",
+    "ammonium",
+    "arsenic_dissolved",
+    "bicarbonate_hco3",
+    "cadmium_dissolved",
+    "calcium",
+    "carbonates",
+    "chloride",
+    "chromium_6",
+    "chromium_dissolved",
+    "copper_dissolved",
+    "dissolved_oxygen",
+    "electrical_conductivity",
+    "iron_dissolved",
+    "lead_dissolved",
+    "magnesium",
+    "manganese_dissolved",
+    "mercury_dissolved",
+    "nickel_dissolved",
+    "nitrate",
+    "nitrite",
+    "ph",
+    "potassium",
+    "sodium",
+    "sulphate",
+    "total_phosphates",
+    "water_temperature",
+    "zinc_dissolved"
+  ],
+  "observation_kind_counts": {
+    "annual_summary": 583,
+    "point_sample": 4
+  },
+  "statistic_type_counts": {
+    "maximum": 131,
+    "mean": 131,
+    "minimum": 131,
+    "median": 128,
+    "std_dev": 62,
+    "point": 4
+  },
+  "time_span": {
+    "min_time_start": "2013-01-01",
+    "max_time_start": "2025-04-14",
+    "years_present": [
+      2013,
+      2014,
+      2015,
+      2018,
+      2019,
+      2020,
+      2024,
+      2025
+    ]
+  },
+  "scale_anomaly_rows": 448,
+  "missing_companion_stats_rows": 11,
+  "site_ids": [
+    "Loc-Almyros"
+  ],
+  "data_classes": [
+    "derived"
+  ],
+  "notes": "Primary annual series for readiness is statistic_type=median. Mean/min/max under scale_anomaly are profiled but not modeling candidates. Point samples are characterized separately and not pooled with annual medians."
+}

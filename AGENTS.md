@@ -4,9 +4,9 @@ Guidance for humans and AI agents working on this repository.
 
 ## Project purpose
 
-**Resilience Scout** is an adaptive environmental decision-support system for the IEEE OneAquaHealth (OAH) Global Hackathon 2026.
+**Resilience Scout** is an adaptive environmental decision-support concept for the IEEE OneAquaHealth (OAH) Global Hackathon 2026.
 
-It recommends which **next observation** would most improve early warning of an emerging ecosystem threat, using a **quantitative decision engine** — not an LLM — as the core mechanism.
+It is an uncertainty-aware measurement prioritization tool that can support early-warning monitoring by identifying which observation would most reduce uncertainty in the current environmental state, using a **quantitative decision engine** — not an LLM — as the core mechanism (engine specified in Phase 3A; not implemented until Phase 3B).
 
 ## Track 6: Resilience Informatics
 
@@ -35,16 +35,28 @@ Solutions must enable:
 - Provenance + inspection tooling
 - Tests for foundation code
 
-### Phase 2A (current)
+### Phase 2A (complete)
 
 - Almyros long-format normalization (`data/processed/almyros/`)
 - Statistic preservation (point/mean/median/min/max/std_dev)
 - See `docs/DATA_NORMALIZATION.md`
 
-### Explicitly out of Phase 2A
+### Phase 2B (complete)
 
-- Recommendation / expected-value algorithm
-- Anomaly/risk/uncertainty models
+- Almyros environmental data characterization (`data/processed/almyros/characterization/`)
+- Coverage, units, scale-anomaly profile, exploratory median Spearman, modeling readiness
+- See `docs/DATA_CHARACTERIZATION.md`
+
+### Phase 3A (complete)
+
+- Scout mathematical specification only (`docs/SCOUT_MATHEMATICAL_SPEC.md`)
+- Selected formulation: Gaussian EIG on annual-median core panel (no engine code)
+- See `analysis/scout_math_spec_summary.md`
+
+### Explicitly out of Phase 3A (and earlier)
+
+- Recommendation / expected-value **implementation**
+- Anomaly/risk/uncertainty **runtime** models
 - Dashboard UI
 - LLM explanation layer
 - Fake OAH API endpoints
