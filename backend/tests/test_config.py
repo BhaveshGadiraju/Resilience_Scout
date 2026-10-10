@@ -13,5 +13,8 @@ def test_settings_load():
 
 def test_fastapi_app_imports():
     assert app.title
-    routes = {r.path for r in app.routes}
+    # Newer FastAPI exposes _IncludedRouter objects in app.routes that have no .path,
+    # so collect paths defensively and also from the OpenAPI schema.
+    routes = {getattr(r, "path") for r in app.routes if hasattr(r, "path")}
+    routes |= set(app.openapi().get("paths", {}))
     assert "/health" in routes
