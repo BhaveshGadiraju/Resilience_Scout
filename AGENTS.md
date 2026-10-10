@@ -134,3 +134,8 @@ When summarizing data work, separate:
 1. Verified facts (with links)
 2. Limitations
 3. Explicit UNVERIFIED items
+
+### Phase 3B (complete)
+
+- Quantitative Scout engine + leakage-safe replay under `backend/app/services/scout/`
+- See `docs/SCOUT_ENGINE.md` (documents the EIG form deviation from Phase 3A)

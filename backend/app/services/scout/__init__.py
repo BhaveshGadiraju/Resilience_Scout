@@ -1,0 +1,1 @@
+"""Resilience Scout quantitative engine (Phase 3B). No LLM involvement in decisions."""
